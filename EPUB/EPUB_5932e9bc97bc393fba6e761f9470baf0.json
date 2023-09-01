@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nang-trong-vuon_20683.html",
+    "title" : "Nắng Trong Vườn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thạch Lam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 13101,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_5932e9bc97bc393fba6e761f9470baf0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_5932e9bc97bc393fba6e761f9470baf0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nang-trong-vuon-thach-lam p01 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nang-trong-vuon-thach-lam p01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_b5b00cb890a1688d438516ca0bdb5102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "nang-trong-vuon-thach-lam p02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_e2194c081450c84e1e6c82d06834a81e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2542,
+    "title" : "nang-trong-vuon-thach-lam p03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nang-trong-vuon-thach-lam p04 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nang-trong-vuon-thach-lam p04 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_7011b6d5808203dfd32ef7e2704a570c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2343,
+    "title" : "nang-trong-vuon-thach-lam p05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_1.mp3",
+    "title" : "nang-trong-vuon-thach-lam p01 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_2.mp3",
+    "title" : "nang-trong-vuon-thach-lam p01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_b5b00cb890a1688d438516ca0bdb5102.mp3",
+    "title" : "nang-trong-vuon-thach-lam p02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_e2194c081450c84e1e6c82d06834a81e.mp3",
+    "title" : "nang-trong-vuon-thach-lam p03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_1.mp3",
+    "title" : "nang-trong-vuon-thach-lam p04 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_2.mp3",
+    "title" : "nang-trong-vuon-thach-lam p04 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_7011b6d5808203dfd32ef7e2704a570c.mp3",
+    "title" : "nang-trong-vuon-thach-lam p05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
