@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-mai-tan-bien-giua-doi_19370.html",
+    "title" : "Một Mai Tan Biến Giữa Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "NamKoong In",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 5525,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_5b5dfd3bff1279ff8064a3c4d4516534.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_5b5dfd3bff1279ff8064a3c4d4516534.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_3a8f10d8fd0c3e9ed513f6a068043bc1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mot-mai-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_3a8f10d8fd0c3e9ed513f6a068043bc1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mot-mai-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_403ff343ab34e67a36ed35ccfd76d781_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mot-mai-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_403ff343ab34e67a36ed35ccfd76d781_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mot-mai-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_3a8f10d8fd0c3e9ed513f6a068043bc1_1.mp3",
+    "title" : "mot-mai-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_3a8f10d8fd0c3e9ed513f6a068043bc1_2.mp3",
+    "title" : "mot-mai-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_403ff343ab34e67a36ed35ccfd76d781_1.mp3",
+    "title" : "mot-mai-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5b5dfd3bff1279ff8064a3c4d4516534_403ff343ab34e67a36ed35ccfd76d781_2.mp3",
+    "title" : "mot-mai-2 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
