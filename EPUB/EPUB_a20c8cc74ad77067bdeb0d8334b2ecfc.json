@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kiep-dan-ba_13532.html",
+    "title" : "Kiếp Đàn Bà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tống Thị Phương Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 28872,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_a20c8cc74ad77067bdeb0d8334b2ecfc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_a20c8cc74ad77067bdeb0d8334b2ecfc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_739d7459181dc34b12c0ca1df5a4bd52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5197,
+    "title" : "Truyện Ngắn Cực Hay Về Gia Đình Khi Chồng Ngoại Tình Và Kiếm Cớ Ly Hôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_5d38fff09f0e532b12269417ec3abc41_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kiếp Đàn Bà [Tập 2] Truyện Ngắn Về Hôn Nhân Và Cuộc Sống Hẩm Hiu Của Nữ Chính (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_5d38fff09f0e532b12269417ec3abc41_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kiếp Đàn Bà [Tập 2] Truyện Ngắn Về Hôn Nhân Và Cuộc Sống Hẩm Hiu Của Nữ Chính (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_c16993f6353b855e19d513b1a31e7b61_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kiếp Đàn Bà [Tập 3] Truyện Ngắn Hay Về Hôn Nhân Khi Đánh Mất Tất Cả (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_c16993f6353b855e19d513b1a31e7b61_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kiếp Đàn Bà [Tập 3] Truyện Ngắn Hay Về Hôn Nhân Khi Đánh Mất Tất Cả (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_62d21dde6fe9806101f9362073cd8359_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kiếp Đàn Bà [Tập 4] Truyện Ngắn Có Hậu Cho Mối Tình Tuyệt Đẹp Của Vân và Phong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_62d21dde6fe9806101f9362073cd8359_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kiếp Đàn Bà [Tập 4] Truyện Ngắn Có Hậu Cho Mối Tình Tuyệt Đẹp Của Vân và Phong (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_739d7459181dc34b12c0ca1df5a4bd52.mp3",
+    "title" : "Truyện Ngắn Cực Hay Về Gia Đình Khi Chồng Ngoại Tình Và Kiếm Cớ Ly Hôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_5d38fff09f0e532b12269417ec3abc41_1.mp3",
+    "title" : "Kiếp Đàn Bà [Tập 2] Truyện Ngắn Về Hôn Nhân Và Cuộc Sống Hẩm Hiu Của Nữ Chính (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_5d38fff09f0e532b12269417ec3abc41_2.mp3",
+    "title" : "Kiếp Đàn Bà [Tập 2] Truyện Ngắn Về Hôn Nhân Và Cuộc Sống Hẩm Hiu Của Nữ Chính (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_c16993f6353b855e19d513b1a31e7b61_1.mp3",
+    "title" : "Kiếp Đàn Bà [Tập 3] Truyện Ngắn Hay Về Hôn Nhân Khi Đánh Mất Tất Cả (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_c16993f6353b855e19d513b1a31e7b61_2.mp3",
+    "title" : "Kiếp Đàn Bà [Tập 3] Truyện Ngắn Hay Về Hôn Nhân Khi Đánh Mất Tất Cả (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_62d21dde6fe9806101f9362073cd8359_1.mp3",
+    "title" : "Kiếp Đàn Bà [Tập 4] Truyện Ngắn Có Hậu Cho Mối Tình Tuyệt Đẹp Của Vân và Phong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_a20c8cc74ad77067bdeb0d8334b2ecfc_62d21dde6fe9806101f9362073cd8359_2.mp3",
+    "title" : "Kiếp Đàn Bà [Tập 4] Truyện Ngắn Có Hậu Cho Mối Tình Tuyệt Đẹp Của Vân và Phong (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
