@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-vo_19337.html",
+    "title" : "Bỏ Vợ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-23",
+    "duration" : 9061,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_6066c5871e7142dd0cd99911fb8ecfdd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_6066c5871e7142dd0cd99911fb8ecfdd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_129c2cdd42f0cb8d132680c6c143199d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-vo-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_129c2cdd42f0cb8d132680c6c143199d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-vo-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_8116be98d7507ea46e47a6bd2f6678fe_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-vo-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_8116be98d7507ea46e47a6bd2f6678fe_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-vo-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_e1587203f7791d0645533c14584dc898.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "bo-vo-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_129c2cdd42f0cb8d132680c6c143199d_1.mp3",
+    "title" : "bo-vo-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_129c2cdd42f0cb8d132680c6c143199d_2.mp3",
+    "title" : "bo-vo-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_8116be98d7507ea46e47a6bd2f6678fe_1.mp3",
+    "title" : "bo-vo-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_8116be98d7507ea46e47a6bd2f6678fe_2.mp3",
+    "title" : "bo-vo-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_6066c5871e7142dd0cd99911fb8ecfdd_e1587203f7791d0645533c14584dc898.mp3",
+    "title" : "bo-vo-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
