@@ -1,0 +1,1796 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyenio.com/truyen-tranh/co-di-ma-ket-hon-voi-chong-toi-di-547485",
+    "title" : "Cô Đi Mà Kết Hôn Với Chồng Tôi Đi - Chapter 45",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-30",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 76,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_0b124476b38104bc0aea89139d38ea71.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i226.ntcdntempv26.com/data/images/54748/884048/001-76209db.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_87e59824bda9e08fffbbf30bd36c6b21.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i226.ntcdntempv26.com/data/images/54748/884048/002-cd3215a.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_522a68e699f4f76c521e969fc3abaade.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i226.ntcdntempv26.com/data/images/54748/884048/003-4917a27.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage2/main/IMAGE/IMAGE_d25dc67eff9b71a6c22285b5e717268b_c0287164025ca7a98af39011589781ff_ad7a543cf1b020d3cdb3ff0066c896d3.png",
+    "type" : "image/png",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://st.nettruyenio.com/data/logos/logo-nettruyen.png",
+      "type" : "image/png",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
