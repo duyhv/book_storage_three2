@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/uy-nam-vuong_19785.html",
+    "title" : "Uy Nam Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Vĩnh Lộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 3192,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_5e20197dba316cea21a934b462528146.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_5e20197dba316cea21a934b462528146.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5e20197dba316cea21a934b462528146_32551eebfbd6c86e486a6348cab13589_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "UY NAM VƯƠNG TRỌN BỘ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5e20197dba316cea21a934b462528146_32551eebfbd6c86e486a6348cab13589_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "UY NAM VƯƠNG TRỌN BỘ (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5e20197dba316cea21a934b462528146_32551eebfbd6c86e486a6348cab13589_1.mp3",
+    "title" : "UY NAM VƯƠNG TRỌN BỘ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_5e20197dba316cea21a934b462528146_32551eebfbd6c86e486a6348cab13589_2.mp3",
+    "title" : "UY NAM VƯƠNG TRỌN BỘ (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
