@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phap-su-quy-an_15647.html",
+    "title" : "Pháp Sư Quỷ Ấn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Khôi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 17344,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_c6433ba90bb1c83e6ecb40cc153ca9c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_c6433ba90bb1c83e6ecb40cc153ca9c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_dd07a8d5cf9dfc93d0c6892e70f26797.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_5a85adbf1cabd53efacf5530a3588a67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_76b43259a330684a3ef572adaaf83aad.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3713,
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_17e0366c5c45baad336330a61ce9e283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_5d5a285bda2e88d6a38d5193f6613cc4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_dd07a8d5cf9dfc93d0c6892e70f26797.mp3",
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_5a85adbf1cabd53efacf5530a3588a67.mp3",
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_76b43259a330684a3ef572adaaf83aad.mp3",
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_17e0366c5c45baad336330a61ce9e283.mp3",
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_c6433ba90bb1c83e6ecb40cc153ca9c9_5d5a285bda2e88d6a38d5193f6613cc4.mp3",
+    "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
