@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truyen-co-nuoc-nam_20748.html",
+    "title" : "Truyện Cổ Nước Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ôn Như Nguyễn Văn Ngọc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 16436,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_ddccc0b38e2e514737128e6966d699a4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_ddccc0b38e2e514737128e6966d699a4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "truyen-co-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_c19f30d67c187c88c653f88703380403.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "truyen-co-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_1.mp3",
+    "title" : "truyen-co-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_2.mp3",
+    "title" : "truyen-co-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_1.mp3",
+    "title" : "truyen-co-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_2.mp3",
+    "title" : "truyen-co-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_1.mp3",
+    "title" : "truyen-co-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_2.mp3",
+    "title" : "truyen-co-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_1.mp3",
+    "title" : "truyen-co-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_2.mp3",
+    "title" : "truyen-co-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_c19f30d67c187c88c653f88703380403.mp3",
+    "title" : "truyen-co-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
