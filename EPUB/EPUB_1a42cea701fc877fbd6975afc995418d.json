@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/boi-chinh-minh-toi-khong-chon-kho-dau_19372.html",
+    "title" : "Bởi Chính Mình Tôi Không Chọn Khổ Đau",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Wiki Sống Trẻ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 9099,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_1a42cea701fc877fbd6975afc995418d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_1a42cea701fc877fbd6975afc995418d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "boi-chinh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "boi-chinh (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "boi-chinh (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "boi-chinh (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "boi-chinh (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_1.mp3",
+    "title" : "boi-chinh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_2.mp3",
+    "title" : "boi-chinh (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_3.mp3",
+    "title" : "boi-chinh (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_4.mp3",
+    "title" : "boi-chinh (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1a42cea701fc877fbd6975afc995418d_7f4b203a0d6345db14d4f0a888999b53_5.mp3",
+    "title" : "boi-chinh (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
