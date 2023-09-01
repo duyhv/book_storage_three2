@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuot-qua-chinh-minh_16753.html",
+    "title" : "Vượt Qua Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 3452,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_f5ea7ca87d3922dc2e35e89dd4ce8d55.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_f5ea7ca87d3922dc2e35e89dd4ce8d55.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8e351591694e3de79f1c3cbaa1e0f94d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9,
+    "title" : "VQTCM3-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b8ffd0deb04fa36d393fcf3fbc6687f5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 283,
+    "title" : "VQTCM3-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_175e889803ee011c1bb4739099d4d399.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2,
+    "title" : "VQTCM3-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_661080c04ad96b1bc8f8cc686ecb997d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 184,
+    "title" : "VQTCM3-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b1b63d278292e757bcd446fa3b26bc23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 315,
+    "title" : "VQTCM3-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_aa264e93124b369d8f6ae1d651425204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 322,
+    "title" : "VQTCM3-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8476871ca9c5322cffa791437717c8c8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 540,
+    "title" : "VQTCM3-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_34c908d680cb1069b25f2cb40b283de7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 236,
+    "title" : "VQTCM3-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_1969018ed427c7e1f35a513a5b6166e5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16,
+    "title" : "VQTCM3-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_851142a11518b1a64b896b1c1c567fce.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 164,
+    "title" : "VQTCM3-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b03f25e09c8b6867d6fb687dada875d4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 87,
+    "title" : "VQTCM3-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_c6f8270d9d1489c64626d05087bca364.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 75,
+    "title" : "VQTCM3-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_bb8dabc816efa3adb950c89b50d751e9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 193,
+    "title" : "VQTCM3-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b14eff91a156a2a908ac78c4090c0dfb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 313,
+    "title" : "VQTCM3-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e38345d505977716a074745d2e24a4ad.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 179,
+    "title" : "VQTCM3-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e3b50c0effdc9f3421218efc18c827e1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 240,
+    "title" : "VQTCM3-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_d4c0211677877f48502499ccc9aa724e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 106,
+    "title" : "VQTCM3-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_85ef609547fe59bbddb4c771da547836.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 188,
+    "title" : "VQTCM3-20",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8e351591694e3de79f1c3cbaa1e0f94d.mp3",
+    "title" : "VQTCM3-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b8ffd0deb04fa36d393fcf3fbc6687f5.mp3",
+    "title" : "VQTCM3-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_175e889803ee011c1bb4739099d4d399.mp3",
+    "title" : "VQTCM3-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_661080c04ad96b1bc8f8cc686ecb997d.mp3",
+    "title" : "VQTCM3-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b1b63d278292e757bcd446fa3b26bc23.mp3",
+    "title" : "VQTCM3-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_aa264e93124b369d8f6ae1d651425204.mp3",
+    "title" : "VQTCM3-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8476871ca9c5322cffa791437717c8c8.mp3",
+    "title" : "VQTCM3-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_34c908d680cb1069b25f2cb40b283de7.mp3",
+    "title" : "VQTCM3-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_1969018ed427c7e1f35a513a5b6166e5.mp3",
+    "title" : "VQTCM3-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_851142a11518b1a64b896b1c1c567fce.mp3",
+    "title" : "VQTCM3-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b03f25e09c8b6867d6fb687dada875d4.mp3",
+    "title" : "VQTCM3-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_c6f8270d9d1489c64626d05087bca364.mp3",
+    "title" : "VQTCM3-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_bb8dabc816efa3adb950c89b50d751e9.mp3",
+    "title" : "VQTCM3-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b14eff91a156a2a908ac78c4090c0dfb.mp3",
+    "title" : "VQTCM3-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e38345d505977716a074745d2e24a4ad.mp3",
+    "title" : "VQTCM3-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e3b50c0effdc9f3421218efc18c827e1.mp3",
+    "title" : "VQTCM3-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_d4c0211677877f48502499ccc9aa724e.mp3",
+    "title" : "VQTCM3-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_85ef609547fe59bbddb4c771da547836.mp3",
+    "title" : "VQTCM3-20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
