@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_7d6ad83f9eb5e5cc8ffa7cd23d01cb14.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_7d6ad83f9eb5e5cc8ffa7cd23d01cb14.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_7d6ad83f9eb5e5cc8ffa7cd23d01cb14.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_7d6ad83f9eb5e5cc8ffa7cd23d01cb14.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_8804bde32e7c7b6094d72ea1adf5e72f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_8804bde32e7c7b6094d72ea1adf5e72f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2082,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_676631f9daf56780ffa94ee595f9c80e.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_676631f9daf56780ffa94ee595f9c80e.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1687,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_900d29122b5d70a2fa9115bd5b4275b7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_900d29122b5d70a2fa9115bd5b4275b7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1820,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_1.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_56af36c6e44c12d68d670dee31586e31_2.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_1.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_0d48dcee65733d365ce10e7b8dfd01de_2.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 3 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_8804bde32e7c7b6094d72ea1adf5e72f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_8804bde32e7c7b6094d72ea1adf5e72f.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_1.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 7 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_b37d863666e7c10e12f271220393eec9_2.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 7 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_676631f9daf56780ffa94ee595f9c80e.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_676631f9daf56780ffa94ee595f9c80e.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_900d29122b5d70a2fa9115bd5b4275b7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_900d29122b5d70a2fa9115bd5b4275b7.mp3",
     "title" : "Heidi CÔ BÉ TRÊN NÚI CAO | Chương 11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_1.mp3",
     "title" : "Heidi CÔ BÉ TRÊN NÚI CAO | Chương 13 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7d6ad83f9eb5e5cc8ffa7cd23d01cb14_a79a8cf14e22b2e8965c1c3cc5ffe9fb_2.mp3",
     "title" : "Heidi CÔ BÉ TRÊN NÚI CAO | Chương 13 (2)",
     "children" : [ ]
   } ],

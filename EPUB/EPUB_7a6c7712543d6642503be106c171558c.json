@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_7a6c7712543d6642503be106c171558c.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_7a6c7712543d6642503be106c171558c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_7a6c7712543d6642503be106c171558c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_7a6c7712543d6642503be106c171558c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_1549c68a61fb46bda33d72c4b2b24a18.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_1549c68a61fb46bda33d72c4b2b24a18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4615,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_0342dd44c6f195a957965116b1774400.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_0342dd44c6f195a957965116b1774400.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4350,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_1549c68a61fb46bda33d72c4b2b24a18.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_1549c68a61fb46bda33d72c4b2b24a18.mp3",
     "title" : "Luoc Truyen Duc Phat Thich Ca",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_0342dd44c6f195a957965116b1774400.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7a6c7712543d6642503be106c171558c_0342dd44c6f195a957965116b1774400.mp3",
     "title" : "luoc-truyen-2",
     "children" : [ ]
   } ],

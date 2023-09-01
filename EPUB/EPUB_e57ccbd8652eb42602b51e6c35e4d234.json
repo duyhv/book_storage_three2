@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_e57ccbd8652eb42602b51e6c35e4d234.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_e57ccbd8652eb42602b51e6c35e4d234.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_e57ccbd8652eb42602b51e6c35e4d234.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_e57ccbd8652eb42602b51e6c35e4d234.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_1.mp3",
     "title" : "cuoc-song-tuoi-dep-og-mandino (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_2.mp3",
     "title" : "cuoc-song-tuoi-dep-og-mandino (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e57ccbd8652eb42602b51e6c35e4d234_8b87804c10b2329d749e01ded880dc03_3.mp3",
     "title" : "cuoc-song-tuoi-dep-og-mandino (3)",
     "children" : [ ]
   } ],

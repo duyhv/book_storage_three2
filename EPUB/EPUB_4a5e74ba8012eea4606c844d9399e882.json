@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_4a5e74ba8012eea4606c844d9399e882.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_4a5e74ba8012eea4606c844d9399e882.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_4a5e74ba8012eea4606c844d9399e882.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_4a5e74ba8012eea4606c844d9399e882.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_59344d46395caa2ed983bc506a9ac9f9.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_59344d46395caa2ed983bc506a9ac9f9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2270,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_0e5a8ba9ebe1dd29fa5c0b2977808868.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_0e5a8ba9ebe1dd29fa5c0b2977808868.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1363,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_8c12c30d5a2b9aac01927290267552c5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_8c12c30d5a2b9aac01927290267552c5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2201,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_59344d46395caa2ed983bc506a9ac9f9.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_59344d46395caa2ed983bc506a9ac9f9.mp3",
     "title" : "MINH SINH RA DAU PHAI DE BUON 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_0e5a8ba9ebe1dd29fa5c0b2977808868.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_0e5a8ba9ebe1dd29fa5c0b2977808868.mp3",
     "title" : "MINH SINH RA DAU PHAI DE BUON 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_8c12c30d5a2b9aac01927290267552c5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4a5e74ba8012eea4606c844d9399e882_8c12c30d5a2b9aac01927290267552c5.mp3",
     "title" : "MINH SINH RA DAU PHAI DE BUON 03",
     "children" : [ ]
   } ],

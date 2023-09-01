@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_333eb794ad00144194e3240da57ee299.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_333eb794ad00144194e3240da57ee299.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_333eb794ad00144194e3240da57ee299.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_333eb794ad00144194e3240da57ee299.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_6.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_1.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_2.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_3.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_4.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_169dd7cf6ea56eb98fb5cab064547f94_5.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (5)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_1.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_2.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_3.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_4.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_5.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC (5)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_6.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_333eb794ad00144194e3240da57ee299_d7b8c1b067a0f1bd843857330091fe3e_6.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC (6)",
     "children" : [ ]
   } ],

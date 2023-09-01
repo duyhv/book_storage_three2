@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_ddccc0b38e2e514737128e6966d699a4.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_ddccc0b38e2e514737128e6966d699a4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_ddccc0b38e2e514737128e6966d699a4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_ddccc0b38e2e514737128e6966d699a4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_c19f30d67c187c88c653f88703380403.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_c19f30d67c187c88c653f88703380403.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2036,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_1.mp3",
     "title" : "truyen-co-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_907daf78512e51ed00b000896f593f8b_2.mp3",
     "title" : "truyen-co-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_1.mp3",
     "title" : "truyen-co-2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_05d317a9b41f4ead7e64a680afaf8794_2.mp3",
     "title" : "truyen-co-2 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_1.mp3",
     "title" : "truyen-co-3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_62b4499355afe00e7f9ca93937d0c0b7_2.mp3",
     "title" : "truyen-co-3 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_1.mp3",
     "title" : "truyen-co-4 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_01c70bd73c9ec7182c284cd25f6aad32_2.mp3",
     "title" : "truyen-co-4 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_c19f30d67c187c88c653f88703380403.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ddccc0b38e2e514737128e6966d699a4_c19f30d67c187c88c653f88703380403.mp3",
     "title" : "truyen-co-5",
     "children" : [ ]
   } ],
