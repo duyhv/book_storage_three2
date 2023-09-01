@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-cong-anh-nho_20661.html",
+    "title" : "Bồ Công Anh Nhỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Xuân Đà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-03",
+    "duration" : 10480,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_398f5f0131e6fc5d52c4d5837abfb81c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_398f5f0131e6fc5d52c4d5837abfb81c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_888eeb59ef6dc8e267cc53140cf1fe5c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-cong-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_888eeb59ef6dc8e267cc53140cf1fe5c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-cong-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_17afca4e75d56d44aa1ba460c01423e9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-cong-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_17afca4e75d56d44aa1ba460c01423e9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-cong-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_026f885680842ef31ba6018607a3fc79_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-cong-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_026f885680842ef31ba6018607a3fc79_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bo-cong-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_888eeb59ef6dc8e267cc53140cf1fe5c_1.mp3",
+    "title" : "bo-cong-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_888eeb59ef6dc8e267cc53140cf1fe5c_2.mp3",
+    "title" : "bo-cong-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_17afca4e75d56d44aa1ba460c01423e9_1.mp3",
+    "title" : "bo-cong-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_17afca4e75d56d44aa1ba460c01423e9_2.mp3",
+    "title" : "bo-cong-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_026f885680842ef31ba6018607a3fc79_1.mp3",
+    "title" : "bo-cong-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_398f5f0131e6fc5d52c4d5837abfb81c_026f885680842ef31ba6018607a3fc79_2.mp3",
+    "title" : "bo-cong-3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
