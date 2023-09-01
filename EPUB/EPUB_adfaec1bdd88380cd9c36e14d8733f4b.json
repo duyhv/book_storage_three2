@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/to-tam_19354.html",
+    "title" : "Tố Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Ngọc Phách",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-21",
+    "duration" : 9744,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_adfaec1bdd88380cd9c36e14d8733f4b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_adfaec1bdd88380cd9c36e14d8733f4b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "to-tam-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "to-tam-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "to-tam-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "to-tam-1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_d3eed6bf412b825f52ed9eaf7e51b87b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "to-tam-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_d3eed6bf412b825f52ed9eaf7e51b87b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "to-tam-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_1.mp3",
+    "title" : "to-tam-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_2.mp3",
+    "title" : "to-tam-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_3.mp3",
+    "title" : "to-tam-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_5805ef9fcdd44510813d78e2504a75b0_4.mp3",
+    "title" : "to-tam-1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_d3eed6bf412b825f52ed9eaf7e51b87b_1.mp3",
+    "title" : "to-tam-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_adfaec1bdd88380cd9c36e14d8733f4b_d3eed6bf412b825f52ed9eaf7e51b87b_2.mp3",
+    "title" : "to-tam-2 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
