@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 5877,
+    "published" : "2023-09-06",
+    "duration" : 11754,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_71ee6b612441d74cf75b2a7b41a8abf8.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_71ee6b612441d74cf75b2a7b41a8abf8.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_71ee6b612441d74cf75b2a7b41a8abf8.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_71ee6b612441d74cf75b2a7b41a8abf8.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_71ee6b612441d74cf75b2a7b41a8abf8_b0eb855a7a1307f9d27f597500cb6eae.mp3",
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1901,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_71ee6b612441d74cf75b2a7b41a8abf8_0098921eefec994eb19b24be11196836.mp3",
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2229,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_71ee6b612441d74cf75b2a7b41a8abf8_5d6b989d8adcddad30b6ea0cb2725198.mp3",
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1747,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_71ee6b612441d74cf75b2a7b41a8abf8_b0eb855a7a1307f9d27f597500cb6eae.mp3",
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_01.mp3",
     "title" : "HOANG TU HAM DOC SACH 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_71ee6b612441d74cf75b2a7b41a8abf8_0098921eefec994eb19b24be11196836.mp3",
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_02.mp3",
     "title" : "HOANG TU HAM DOC SACH 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_71ee6b612441d74cf75b2a7b41a8abf8_5d6b989d8adcddad30b6ea0cb2725198.mp3",
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_03.mp3",
     "title" : "HOANG TU HAM DOC SACH 03",
     "children" : [ ]
   } ],

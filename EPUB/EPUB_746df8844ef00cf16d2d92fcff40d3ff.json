@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 25508,
+    "published" : "2023-09-06",
+    "duration" : 41086,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_746df8844ef00cf16d2d92fcff40d3ff.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_746df8844ef00cf16d2d92fcff40d3ff.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_746df8844ef00cf16d2d92fcff40d3ff.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_746df8844ef00cf16d2d92fcff40d3ff.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_9b21818d102eb9dc7948b03bd93cf194.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2095,
@@ -44,23 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_08d5a853694a8593699a54f026f36d54_1.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-02 (1)",
+    "duration" : 2374,
+    "title" : "duc-thanh-02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_08d5a853694a8593699a54f026f36d54_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-02 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_afb89a5276e9023cdf9acb66ee98c525.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2062,
@@ -68,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_01cfc4f6b57417c2e6bca866cc391dc0.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1766,
@@ -76,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_3148d1deadcfc014476cf4b3c9cba67a.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1936,
@@ -84,23 +76,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_c7e53f7caddc9353a8e9edd44c1e8acc_1.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-06 (1)",
+    "duration" : 2413,
+    "title" : "duc-thanh-06",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_c7e53f7caddc9353a8e9edd44c1e8acc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-06 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_9198249b15a634b060990cbf7faa9414.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1695,
@@ -108,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_d06e5b58415d90d51979960bff411230.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1912,
@@ -116,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_ee658ce46430c066375fb7b901ab209b.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1986,
@@ -124,23 +108,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_2a50663302d08ba66b26f100d74aa460_1.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-10 (1)",
+    "duration" : 2606,
+    "title" : "duc-thanh-10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_2a50663302d08ba66b26f100d74aa460_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-10 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_62f8bb934b0cbe5db1569ee2b8f4c2e8.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2126,
@@ -148,85 +124,61 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_4ee0df2d66836fa62257440e2cedb3e6_1.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-12 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_4ee0df2d66836fa62257440e2cedb3e6_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duc-thanh-12 (2)",
+    "duration" : 2537,
+    "title" : "duc-thanh-12",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_9b21818d102eb9dc7948b03bd93cf194.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-01.mp3",
     "title" : "duc-thanh-01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_08d5a853694a8593699a54f026f36d54_1.mp3",
-    "title" : "duc-thanh-02 (1)",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-02.mp3",
+    "title" : "duc-thanh-02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_08d5a853694a8593699a54f026f36d54_2.mp3",
-    "title" : "duc-thanh-02 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_afb89a5276e9023cdf9acb66ee98c525.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-03.mp3",
     "title" : "duc-thanh-03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_01cfc4f6b57417c2e6bca866cc391dc0.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-04.mp3",
     "title" : "duc-thanh-04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_3148d1deadcfc014476cf4b3c9cba67a.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-05.mp3",
     "title" : "duc-thanh-05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_c7e53f7caddc9353a8e9edd44c1e8acc_1.mp3",
-    "title" : "duc-thanh-06 (1)",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-06.mp3",
+    "title" : "duc-thanh-06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_c7e53f7caddc9353a8e9edd44c1e8acc_2.mp3",
-    "title" : "duc-thanh-06 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_9198249b15a634b060990cbf7faa9414.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-07.mp3",
     "title" : "duc-thanh-07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_d06e5b58415d90d51979960bff411230.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-08.mp3",
     "title" : "duc-thanh-08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_ee658ce46430c066375fb7b901ab209b.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-09.mp3",
     "title" : "duc-thanh-09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_2a50663302d08ba66b26f100d74aa460_1.mp3",
-    "title" : "duc-thanh-10 (1)",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-10.mp3",
+    "title" : "duc-thanh-10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_2a50663302d08ba66b26f100d74aa460_2.mp3",
-    "title" : "duc-thanh-10 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_62f8bb934b0cbe5db1569ee2b8f4c2e8.mp3",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-11.mp3",
     "title" : "duc-thanh-11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_4ee0df2d66836fa62257440e2cedb3e6_1.mp3",
-    "title" : "duc-thanh-12 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_746df8844ef00cf16d2d92fcff40d3ff_4ee0df2d66836fa62257440e2cedb3e6_2.mp3",
-    "title" : "duc-thanh-12 (2)",
+    "href" : "https://archive.org/download/duc-thanh-10/duc-thanh-12.mp3",
+    "title" : "duc-thanh-12",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

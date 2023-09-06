@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 11229,
+    "published" : "2023-09-06",
+    "duration" : 15129,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_d12ad7bf3953eb639e83971b3e39a4cf.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_d12ad7bf3953eb639e83971b3e39a4cf.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_d12ad7bf3953eb639e83971b3e39a4cf.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_d12ad7bf3953eb639e83971b3e39a4cf.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_73cd0b44ab34a53fcf0687b500eaed90.mp3",
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -44,57 +44,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_6cf01ae8c2946863121cd17c73f59d21_1.mp3",
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chuyen-nho-2 (1)",
+    "duration" : 3900,
+    "title" : "chuyen-nho-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_6cf01ae8c2946863121cd17c73f59d21_2.mp3",
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chuyen-nho-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_64d027b44069c64df0256dca6fbc61cc_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chuyen-nho-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_64d027b44069c64df0256dca6fbc61cc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chuyen-nho-3 (2)",
+    "duration" : 3429,
+    "title" : "chuyen-nho-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_73cd0b44ab34a53fcf0687b500eaed90.mp3",
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-1.mp3",
     "title" : "chuyen-nho-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_6cf01ae8c2946863121cd17c73f59d21_1.mp3",
-    "title" : "chuyen-nho-2 (1)",
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-2.mp3",
+    "title" : "chuyen-nho-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_6cf01ae8c2946863121cd17c73f59d21_2.mp3",
-    "title" : "chuyen-nho-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_64d027b44069c64df0256dca6fbc61cc_1.mp3",
-    "title" : "chuyen-nho-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_d12ad7bf3953eb639e83971b3e39a4cf_64d027b44069c64df0256dca6fbc61cc_2.mp3",
-    "title" : "chuyen-nho-3 (2)",
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-3.mp3",
+    "title" : "chuyen-nho-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

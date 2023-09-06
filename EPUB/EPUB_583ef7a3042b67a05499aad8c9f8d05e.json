@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 61395,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,435 +26,135 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_583ef7a3042b67a05499aad8c9f8d05e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_583ef7a3042b67a05499aad8c9f8d05e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_583ef7a3042b67a05499aad8c9f8d05e.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_583ef7a3042b67a05499aad8c9f8d05e.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_1.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-1 (1)",
+    "duration" : 6885,
+    "title" : "chien-tranh-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_2.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-1 (2)",
+    "duration" : 7277,
+    "title" : "chien-tranh-10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_3.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-1 (3)",
+    "duration" : 6727,
+    "title" : "chien-tranh-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_4.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-1 (4)",
+    "duration" : 9020,
+    "title" : "chien-tranh-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_1.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-10 (1)",
+    "duration" : 4884,
+    "title" : "chien-tranh-4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_2.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-10 (2)",
+    "duration" : 3899,
+    "title" : "chien-tranh-5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_3.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-10 (3)",
+    "duration" : 5249,
+    "title" : "chien-tranh-6",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_4.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-10 (4)",
+    "duration" : 5042,
+    "title" : "chien-tranh-7",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_1.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-2 (1)",
+    "duration" : 8912,
+    "title" : "chien-tranh-8",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_2.mp3",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-3 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-3 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3bb3f0028395c1022458ced301a3bfe0_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3bb3f0028395c1022458ced301a3bfe0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3bb3f0028395c1022458ced301a3bfe0_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-4 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3d894aca3fa002300d520d4c500e3315_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3d894aca3fa002300d520d4c500e3315_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-5 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_d0c0fb7ddf8aba4567aa63433855060b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-6 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_d0c0fb7ddf8aba4567aa63433855060b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-6 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_d0c0fb7ddf8aba4567aa63433855060b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-6 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_769c86073dac000258d4d0d4915dc6b2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-7 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_769c86073dac000258d4d0d4915dc6b2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-7 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_769c86073dac000258d4d0d4915dc6b2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-7 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-8 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-8 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-8 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-8 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-8 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_069d1dd9c045feaf0ce572e2db17b5e7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-9 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_069d1dd9c045feaf0ce572e2db17b5e7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chien-tranh-9 (2)",
+    "duration" : 3500,
+    "title" : "chien-tranh-9",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_1.mp3",
-    "title" : "chien-tranh-1 (1)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-1.mp3",
+    "title" : "chien-tranh-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_2.mp3",
-    "title" : "chien-tranh-1 (2)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-10.mp3",
+    "title" : "chien-tranh-10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_3.mp3",
-    "title" : "chien-tranh-1 (3)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-2.mp3",
+    "title" : "chien-tranh-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_c7b6cdaf3348530f4d8cdd66c03a11ce_4.mp3",
-    "title" : "chien-tranh-1 (4)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-3.mp3",
+    "title" : "chien-tranh-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_1.mp3",
-    "title" : "chien-tranh-10 (1)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-4.mp3",
+    "title" : "chien-tranh-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_2.mp3",
-    "title" : "chien-tranh-10 (2)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-5.mp3",
+    "title" : "chien-tranh-5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_3.mp3",
-    "title" : "chien-tranh-10 (3)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-6.mp3",
+    "title" : "chien-tranh-6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_2b8d38305509210a5f3ca9da4ad33bf7_4.mp3",
-    "title" : "chien-tranh-10 (4)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-7.mp3",
+    "title" : "chien-tranh-7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_1.mp3",
-    "title" : "chien-tranh-2 (1)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-8.mp3",
+    "title" : "chien-tranh-8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_2.mp3",
-    "title" : "chien-tranh-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_3.mp3",
-    "title" : "chien-tranh-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_8907d249640315c037a77d17a79f1f52_4.mp3",
-    "title" : "chien-tranh-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_1.mp3",
-    "title" : "chien-tranh-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_2.mp3",
-    "title" : "chien-tranh-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_3.mp3",
-    "title" : "chien-tranh-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_4.mp3",
-    "title" : "chien-tranh-3 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_33d9a6d46b838b51f9cca66158e65378_5.mp3",
-    "title" : "chien-tranh-3 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3bb3f0028395c1022458ced301a3bfe0_1.mp3",
-    "title" : "chien-tranh-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3bb3f0028395c1022458ced301a3bfe0_2.mp3",
-    "title" : "chien-tranh-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3bb3f0028395c1022458ced301a3bfe0_3.mp3",
-    "title" : "chien-tranh-4 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3d894aca3fa002300d520d4c500e3315_1.mp3",
-    "title" : "chien-tranh-5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_3d894aca3fa002300d520d4c500e3315_2.mp3",
-    "title" : "chien-tranh-5 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_d0c0fb7ddf8aba4567aa63433855060b_1.mp3",
-    "title" : "chien-tranh-6 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_d0c0fb7ddf8aba4567aa63433855060b_2.mp3",
-    "title" : "chien-tranh-6 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_d0c0fb7ddf8aba4567aa63433855060b_3.mp3",
-    "title" : "chien-tranh-6 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_769c86073dac000258d4d0d4915dc6b2_1.mp3",
-    "title" : "chien-tranh-7 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_769c86073dac000258d4d0d4915dc6b2_2.mp3",
-    "title" : "chien-tranh-7 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_769c86073dac000258d4d0d4915dc6b2_3.mp3",
-    "title" : "chien-tranh-7 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_1.mp3",
-    "title" : "chien-tranh-8 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_2.mp3",
-    "title" : "chien-tranh-8 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_3.mp3",
-    "title" : "chien-tranh-8 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_4.mp3",
-    "title" : "chien-tranh-8 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_f494e196a198599e862dbd07d3f82526_5.mp3",
-    "title" : "chien-tranh-8 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_069d1dd9c045feaf0ce572e2db17b5e7_1.mp3",
-    "title" : "chien-tranh-9 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_583ef7a3042b67a05499aad8c9f8d05e_069d1dd9c045feaf0ce572e2db17b5e7_2.mp3",
-    "title" : "chien-tranh-9 (2)",
+    "href" : "https://archive.org/download/chien-tranh-1/chien-tranh-9.mp3",
+    "title" : "chien-tranh-9",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

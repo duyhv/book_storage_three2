@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 10125,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_837d9a924982c2c8990d20320a20e0c1.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_837d9a924982c2c8990d20320a20e0c1.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_837d9a924982c2c8990d20320a20e0c1.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_837d9a924982c2c8990d20320a20e0c1.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_fa1c4225f703a6ca08b555b427e3f585_1.mp3",
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chiec-luoi-1 (1)",
+    "duration" : 3600,
+    "title" : "chiec-luoi-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_fa1c4225f703a6ca08b555b427e3f585_2.mp3",
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chiec-luoi-1 (2)",
+    "duration" : 3600,
+    "title" : "chiec-luoi-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_bfa2912dd5160f845b34f39c1c801282_1.mp3",
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chiec-luoi-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_bfa2912dd5160f845b34f39c1c801282_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chiec-luoi-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_b432ccd44978b3df139a93a61318bd9b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chiec-luoi-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_b432ccd44978b3df139a93a61318bd9b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chiec-luoi-3 (2)",
+    "duration" : 2925,
+    "title" : "chiec-luoi-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_fa1c4225f703a6ca08b555b427e3f585_1.mp3",
-    "title" : "chiec-luoi-1 (1)",
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-1.mp3",
+    "title" : "chiec-luoi-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_fa1c4225f703a6ca08b555b427e3f585_2.mp3",
-    "title" : "chiec-luoi-1 (2)",
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-2.mp3",
+    "title" : "chiec-luoi-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_bfa2912dd5160f845b34f39c1c801282_1.mp3",
-    "title" : "chiec-luoi-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_bfa2912dd5160f845b34f39c1c801282_2.mp3",
-    "title" : "chiec-luoi-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_b432ccd44978b3df139a93a61318bd9b_1.mp3",
-    "title" : "chiec-luoi-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_837d9a924982c2c8990d20320a20e0c1_b432ccd44978b3df139a93a61318bd9b_2.mp3",
-    "title" : "chiec-luoi-3 (2)",
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-3.mp3",
+    "title" : "chiec-luoi-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

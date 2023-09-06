@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
-    "duration" : 3452,
+    "published" : "2023-09-06",
+    "duration" : 6904,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_f5ea7ca87d3922dc2e35e89dd4ce8d55.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_f5ea7ca87d3922dc2e35e89dd4ce8d55.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_f5ea7ca87d3922dc2e35e89dd4ce8d55.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_f5ea7ca87d3922dc2e35e89dd4ce8d55.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8e351591694e3de79f1c3cbaa1e0f94d.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b8ffd0deb04fa36d393fcf3fbc6687f5.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 283,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_175e889803ee011c1bb4739099d4d399.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_661080c04ad96b1bc8f8cc686ecb997d.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 184,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b1b63d278292e757bcd446fa3b26bc23.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 315,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_aa264e93124b369d8f6ae1d651425204.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 322,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8476871ca9c5322cffa791437717c8c8.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 540,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_34c908d680cb1069b25f2cb40b283de7.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 236,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_1969018ed427c7e1f35a513a5b6166e5.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 16,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_851142a11518b1a64b896b1c1c567fce.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 164,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b03f25e09c8b6867d6fb687dada875d4.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 87,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_c6f8270d9d1489c64626d05087bca364.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 75,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_bb8dabc816efa3adb950c89b50d751e9.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 193,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b14eff91a156a2a908ac78c4090c0dfb.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 313,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e38345d505977716a074745d2e24a4ad.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 179,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e3b50c0effdc9f3421218efc18c827e1.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 240,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_d4c0211677877f48502499ccc9aa724e.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-19.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 106,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_85ef609547fe59bbddb4c771da547836.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 188,
@@ -181,75 +181,75 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8e351591694e3de79f1c3cbaa1e0f94d.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-01.mp3",
     "title" : "VQTCM3-01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b8ffd0deb04fa36d393fcf3fbc6687f5.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-02.mp3",
     "title" : "VQTCM3-02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_175e889803ee011c1bb4739099d4d399.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-04.mp3",
     "title" : "VQTCM3-04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_661080c04ad96b1bc8f8cc686ecb997d.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-05.mp3",
     "title" : "VQTCM3-05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b1b63d278292e757bcd446fa3b26bc23.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-06.mp3",
     "title" : "VQTCM3-06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_aa264e93124b369d8f6ae1d651425204.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-08.mp3",
     "title" : "VQTCM3-08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_8476871ca9c5322cffa791437717c8c8.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-09.mp3",
     "title" : "VQTCM3-09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_34c908d680cb1069b25f2cb40b283de7.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-10.mp3",
     "title" : "VQTCM3-10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_1969018ed427c7e1f35a513a5b6166e5.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-11.mp3",
     "title" : "VQTCM3-11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_851142a11518b1a64b896b1c1c567fce.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-12.mp3",
     "title" : "VQTCM3-12",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b03f25e09c8b6867d6fb687dada875d4.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-13.mp3",
     "title" : "VQTCM3-13",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_c6f8270d9d1489c64626d05087bca364.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-14.mp3",
     "title" : "VQTCM3-14",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_bb8dabc816efa3adb950c89b50d751e9.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-15.mp3",
     "title" : "VQTCM3-15",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_b14eff91a156a2a908ac78c4090c0dfb.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-16.mp3",
     "title" : "VQTCM3-16",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e38345d505977716a074745d2e24a4ad.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-17.mp3",
     "title" : "VQTCM3-17",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_e3b50c0effdc9f3421218efc18c827e1.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-18.mp3",
     "title" : "VQTCM3-18",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_d4c0211677877f48502499ccc9aa724e.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-19.mp3",
     "title" : "VQTCM3-19",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_f5ea7ca87d3922dc2e35e89dd4ce8d55_85ef609547fe59bbddb4c771da547836.mp3",
+    "href" : "https://archive.org/download/VQTCM301/VQTCM3-20.mp3",
     "title" : "VQTCM3-20",
     "children" : [ ]
   } ],

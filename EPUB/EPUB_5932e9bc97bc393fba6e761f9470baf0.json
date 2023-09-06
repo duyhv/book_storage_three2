@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 13101,
+    "published" : "2023-09-06",
+    "duration" : 20276,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,33 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_5932e9bc97bc393fba6e761f9470baf0.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_5932e9bc97bc393fba6e761f9470baf0.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_5932e9bc97bc393fba6e761f9470baf0.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_5932e9bc97bc393fba6e761f9470baf0.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_1.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nang-trong-vuon-thach-lam p01 (1)",
+    "duration" : 2984,
+    "title" : "nang-trong-vuon-thach-lam p01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nang-trong-vuon-thach-lam p01 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_b5b00cb890a1688d438516ca0bdb5102.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2290,
@@ -60,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_e2194c081450c84e1e6c82d06834a81e.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2542,
@@ -68,23 +60,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_1.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nang-trong-vuon-thach-lam p04 (1)",
+    "duration" : 2942,
+    "title" : "nang-trong-vuon-thach-lam p04",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nang-trong-vuon-thach-lam p04 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_7011b6d5808203dfd32ef7e2704a570c.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2343,
@@ -93,31 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_1.mp3",
-    "title" : "nang-trong-vuon-thach-lam p01 (1)",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p01.mp3",
+    "title" : "nang-trong-vuon-thach-lam p01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_f1827bfccbdbf306a61b8dafd13a5d7d_2.mp3",
-    "title" : "nang-trong-vuon-thach-lam p01 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_b5b00cb890a1688d438516ca0bdb5102.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p02.mp3",
     "title" : "nang-trong-vuon-thach-lam p02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_e2194c081450c84e1e6c82d06834a81e.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p03.mp3",
     "title" : "nang-trong-vuon-thach-lam p03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_1.mp3",
-    "title" : "nang-trong-vuon-thach-lam p04 (1)",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p04.mp3",
+    "title" : "nang-trong-vuon-thach-lam p04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_0cd9206f097f7b22bf70f1b8d30a3615_2.mp3",
-    "title" : "nang-trong-vuon-thach-lam p04 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_5932e9bc97bc393fba6e761f9470baf0_7011b6d5808203dfd32ef7e2704a570c.mp3",
+    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p05.mp3",
     "title" : "nang-trong-vuon-thach-lam p05",
     "children" : [ ]
   } ],

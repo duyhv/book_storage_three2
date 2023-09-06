@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-08",
-    "duration" : 25983,
+    "published" : "2023-09-06",
+    "duration" : 51966,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_56de59c6701212a8c8840f26d74fd0fd.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_56de59c6701212a8c8840f26d74fd0fd.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_56de59c6701212a8c8840f26d74fd0fd.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_56de59c6701212a8c8840f26d74fd0fd.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_b37ebbf56e4ac5dc0a01283d075e0586.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1560,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_e53994104b31daf7bacba3c89929b4c8.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1906,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_79024e47f4174d28f804d43cc69cb904.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2219,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_f478bd0da3ab1edeb1f253b310d3d9cb.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1928,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_ca70045472bb9f88a8bbc6097723a1e7.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2054,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_091404ea4f3357958a6aa6ab1d88e3d4.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2433,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_f8cca5d776180e9148e8a3ce07d7e58e.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2012,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_9b24ac3fc3a5a338381c81fc753f62a1.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2362,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_b3731837044ae091c0995f3a91d6221f.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1945,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_ca9fcc577d0cdbe1e28ac0b66ffdaf86.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1434,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_ae5546df142c667b74e982badaf02183.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1750,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_8caf9d55b43c6598128c655f8082b2ef.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1773,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_3ff083f6bad983198ed088b936ddda87.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1319,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_9f0bc567045f02e08494b955e5924c94.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1288,
@@ -149,59 +149,59 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_b37ebbf56e4ac5dc0a01283d075e0586.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-01.mp3",
     "title" : "gap-lai-01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_e53994104b31daf7bacba3c89929b4c8.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-02.mp3",
     "title" : "gap-lai-02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_79024e47f4174d28f804d43cc69cb904.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-03.mp3",
     "title" : "gap-lai-03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_f478bd0da3ab1edeb1f253b310d3d9cb.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-04.mp3",
     "title" : "gap-lai-04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_ca70045472bb9f88a8bbc6097723a1e7.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-05.mp3",
     "title" : "gap-lai-05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_091404ea4f3357958a6aa6ab1d88e3d4.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-06.mp3",
     "title" : "gap-lai-06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_f8cca5d776180e9148e8a3ce07d7e58e.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-07.mp3",
     "title" : "gap-lai-07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_9b24ac3fc3a5a338381c81fc753f62a1.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-08.mp3",
     "title" : "gap-lai-08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_b3731837044ae091c0995f3a91d6221f.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-09.mp3",
     "title" : "gap-lai-09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_ca9fcc577d0cdbe1e28ac0b66ffdaf86.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-10.mp3",
     "title" : "gap-lai-10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_ae5546df142c667b74e982badaf02183.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-11.mp3",
     "title" : "gap-lai-11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_8caf9d55b43c6598128c655f8082b2ef.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-12.mp3",
     "title" : "gap-lai-12",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_3ff083f6bad983198ed088b936ddda87.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-13.mp3",
     "title" : "gap-lai-13",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_56de59c6701212a8c8840f26d74fd0fd_9f0bc567045f02e08494b955e5924c94.mp3",
+    "href" : "https://archive.org/download/gap-lai-06/gap-lai-14.mp3",
     "title" : "gap-lai-14",
     "children" : [ ]
   } ],

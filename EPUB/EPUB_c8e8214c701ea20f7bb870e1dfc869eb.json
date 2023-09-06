@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-07",
+    "published" : "2023-09-06",
     "duration" : 29464,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,231 +26,99 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_c8e8214c701ea20f7bb870e1dfc869eb.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_c8e8214c701ea20f7bb870e1dfc869eb.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_c8e8214c701ea20f7bb870e1dfc869eb.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_c8e8214c701ea20f7bb870e1dfc869eb.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_0b94bcba274540a03f7f8d9871e54cb9_1.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%201%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 1 (192kbit AAC) (1)",
+    "duration" : 3154,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 1 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_0b94bcba274540a03f7f8d9871e54cb9_2.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%202%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 1 (192kbit AAC) (2)",
+    "duration" : 3812,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 2 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_f583f80ef3d521c5658ee2697f6da845_1.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%203%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 2 (192kbit AAC) (1)",
+    "duration" : 3306,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 3 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_f583f80ef3d521c5658ee2697f6da845_2.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%204%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 2 (192kbit AAC) (2)",
+    "duration" : 4462,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_390e6c76655c60a531658f44d4e8815d_1.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%205%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 3 (192kbit AAC) (1)",
+    "duration" : 4715,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_390e6c76655c60a531658f44d4e8815d_2.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%206%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 3 (192kbit AAC) (2)",
+    "duration" : 5225,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8cc9404566e96d05c45de317df1dcbe0_1.mp3",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%207%20%28192kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8cc9404566e96d05c45de317df1dcbe0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8cc9404566e96d05c45de317df1dcbe0_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_3c7261005819d49312cbe5f01b6aed98_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_3c7261005819d49312cbe5f01b6aed98_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_3c7261005819d49312cbe5f01b6aed98_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8b753148bf8a5b7b209e377fe5274810_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8b753148bf8a5b7b209e377fe5274810_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8b753148bf8a5b7b209e377fe5274810_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_9ef345f11af4813162eea00a115f78dd_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_9ef345f11af4813162eea00a115f78dd_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_9ef345f11af4813162eea00a115f78dd_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC) (3)",
+    "duration" : 4790,
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_0b94bcba274540a03f7f8d9871e54cb9_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 1 (192kbit AAC) (1)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%201%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_0b94bcba274540a03f7f8d9871e54cb9_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 1 (192kbit AAC) (2)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%202%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 2 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_f583f80ef3d521c5658ee2697f6da845_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 2 (192kbit AAC) (1)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%203%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 3 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_f583f80ef3d521c5658ee2697f6da845_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 2 (192kbit AAC) (2)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%204%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_390e6c76655c60a531658f44d4e8815d_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 3 (192kbit AAC) (1)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%205%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_390e6c76655c60a531658f44d4e8815d_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 3 (192kbit AAC) (2)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%206%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8cc9404566e96d05c45de317df1dcbe0_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8cc9404566e96d05c45de317df1dcbe0_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8cc9404566e96d05c45de317df1dcbe0_3.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 4 (192kbit AAC) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_3c7261005819d49312cbe5f01b6aed98_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_3c7261005819d49312cbe5f01b6aed98_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_3c7261005819d49312cbe5f01b6aed98_3.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 5 (192kbit AAC) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8b753148bf8a5b7b209e377fe5274810_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8b753148bf8a5b7b209e377fe5274810_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_8b753148bf8a5b7b209e377fe5274810_3.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 6 (192kbit AAC) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_9ef345f11af4813162eea00a115f78dd_1.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_9ef345f11af4813162eea00a115f78dd_2.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_c8e8214c701ea20f7bb870e1dfc869eb_9ef345f11af4813162eea00a115f78dd_3.mp3",
-    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC) (3)",
+    "href" : "https://archive.org/download/cbhv5/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%205%20%20%20t%E1%BA%ADp%207%20%28192kbit_AAC%29.m4a",
+    "title" : "cậu bé học việc và thầy trừ tà phần 5   tập 7 (192kbit AAC)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

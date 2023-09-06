@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 16500,
+    "published" : "2023-09-06",
+    "duration" : 33000,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_7e8ec0a88b2c39c4a459614e237c4851.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_7e8ec0a88b2c39c4a459614e237c4851.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_7e8ec0a88b2c39c4a459614e237c4851.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_7e8ec0a88b2c39c4a459614e237c4851.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_538cf5419a3786ea5b4d0ca1d26d3d77.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Chi%E1%BA%BFc%20xe%20%C4%91%E1%BA%A1p%20v%C3%A0%20m%E1%BA%B9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2448,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_c41f126a538026a8b41478341105b9a5.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Hai%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%B9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2905,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_7635ffa5f25be32aadd7ea3290c24699.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Kh%C3%B4ng%20th%E1%BB%83%20nghi%20ng%E1%BB%9D.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2712,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_5dc9fe536293d609a1a6533b9a12477b.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/L%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2838,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_95914abb0fd808fdfa2e019f93dda712.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Ph%C3%BAt%20gi%C3%A2y%20m%E1%BA%B9%20v%C3%A0%20con.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2786,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_206b94097af1acf36c680075c7f4c558.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/R%E1%BB%93i%20s%E1%BA%BD%20%E1%BB%95n%20th%C3%B4i.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2811,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_538cf5419a3786ea5b4d0ca1d26d3d77.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Chi%E1%BA%BFc%20xe%20%C4%91%E1%BA%A1p%20v%C3%A0%20m%E1%BA%B9.mp3",
     "title" : "Chiếc xe đạp và mẹ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_c41f126a538026a8b41478341105b9a5.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Hai%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%B9.mp3",
     "title" : "Hai người mẹ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_7635ffa5f25be32aadd7ea3290c24699.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Kh%C3%B4ng%20th%E1%BB%83%20nghi%20ng%E1%BB%9D.mp3",
     "title" : "Không thể nghi ngờ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_5dc9fe536293d609a1a6533b9a12477b.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/L%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i.mp3",
     "title" : "Lời nói dối",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_95914abb0fd808fdfa2e019f93dda712.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/Ph%C3%BAt%20gi%C3%A2y%20m%E1%BA%B9%20v%C3%A0%20con.mp3",
     "title" : "Phút giây mẹ và con",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_7e8ec0a88b2c39c4a459614e237c4851_206b94097af1acf36c680075c7f4c558.mp3",
+    "href" : "https://archive.org/download/hai-nguoi-me/R%E1%BB%93i%20s%E1%BA%BD%20%E1%BB%95n%20th%C3%B4i.mp3",
     "title" : "Rồi sẽ ổn thôi",
     "children" : [ ]
   } ],

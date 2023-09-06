@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 14632,
+    "published" : "2023-09-06",
+    "duration" : 29264,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_a0e7ff544589ebfcde2debed9e1526c1.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_a0e7ff544589ebfcde2debed9e1526c1.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_a0e7ff544589ebfcde2debed9e1526c1.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_a0e7ff544589ebfcde2debed9e1526c1.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_d174441206392f4ac6b09112e0ef12fb.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1696,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_dfe7e1b34ca1cdbc6d04fa0b41bceb7d.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2047,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_de3b2e3b4e1ebe4c3c0b8443b68377f7.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2343,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_5ddee4058e4beb6c31bef4e37da7cd98.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2524,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_63bd80284ddc379acab5aa55fc63a932.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2417,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_1bfe626629872a6019ac04880e4bbc99.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2037,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_af02913f6bfd2741cde919bccabab707.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1568,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_d174441206392f4ac6b09112e0ef12fb.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_dfe7e1b34ca1cdbc6d04fa0b41bceb7d.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_2.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_de3b2e3b4e1ebe4c3c0b8443b68377f7.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_3.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_5ddee4058e4beb6c31bef4e37da7cd98.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_4.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_63bd80284ddc379acab5aa55fc63a932.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_5.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_1bfe626629872a6019ac04880e4bbc99.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_6.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_a0e7ff544589ebfcde2debed9e1526c1_af02913f6bfd2741cde919bccabab707.mp3",
+    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_7.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   } ],

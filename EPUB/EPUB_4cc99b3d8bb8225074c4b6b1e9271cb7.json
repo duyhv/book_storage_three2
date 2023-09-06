@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 21748,
+    "published" : "2023-09-06",
+    "duration" : 40265,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_4cc99b3d8bb8225074c4b6b1e9271cb7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_4cc99b3d8bb8225074c4b6b1e9271cb7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_4cc99b3d8bb8225074c4b6b1e9271cb7.png",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_4cc99b3d8bb8225074c4b6b1e9271cb7.png",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_f37a594038532f016e1af7bcbd6f1690.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2815,
@@ -44,23 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_7bbb44f1f0ce9f9e971d84e1e28bd622_1.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tran-nhan-2 (1)",
+    "duration" : 3231,
+    "title" : "tran-nhan-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_7bbb44f1f0ce9f9e971d84e1e28bd622_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tran-nhan-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_a01fef5591b8ce91a300b7acd2f33127.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2815,
@@ -68,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_9f9e020af597cb1bf6ee7fedfafe8f9e.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2012,
@@ -76,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_c3c57d07f1dcd58cb02e09bb1eaeea16.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4219,
@@ -84,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_6fe16fe21c6adc54bb9f01586458af88.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2124,
@@ -92,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_e599f6d06f56a9cb0659d51756334df8.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2607,
@@ -100,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_94eb1e9358259fb2f7db2f948d7ab60f.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1925,
@@ -109,39 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_f37a594038532f016e1af7bcbd6f1690.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-1.mp3",
     "title" : "tran-nhan-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_7bbb44f1f0ce9f9e971d84e1e28bd622_1.mp3",
-    "title" : "tran-nhan-2 (1)",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-2.mp3",
+    "title" : "tran-nhan-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_7bbb44f1f0ce9f9e971d84e1e28bd622_2.mp3",
-    "title" : "tran-nhan-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_a01fef5591b8ce91a300b7acd2f33127.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-3.mp3",
     "title" : "tran-nhan-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_9f9e020af597cb1bf6ee7fedfafe8f9e.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-4.mp3",
     "title" : "tran-nhan-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_c3c57d07f1dcd58cb02e09bb1eaeea16.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-5.mp3",
     "title" : "tran-nhan-5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_6fe16fe21c6adc54bb9f01586458af88.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-6.mp3",
     "title" : "tran-nhan-6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_e599f6d06f56a9cb0659d51756334df8.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-7.mp3",
     "title" : "tran-nhan-7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_4cc99b3d8bb8225074c4b6b1e9271cb7_94eb1e9358259fb2f7db2f948d7ab60f.mp3",
+    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-8.mp3",
     "title" : "tran-nhan-8",
     "children" : [ ]
   } ],

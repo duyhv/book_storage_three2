@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 21971,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,159 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_8afea847894f6d0e80b90400f59392df.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_8afea847894f6d0e80b90400f59392df.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_8afea847894f6d0e80b90400f59392df.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_8afea847894f6d0e80b90400f59392df.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_1.mp3",
+    "href" : "https://archive.org/download/mo-3_20211128/Mo1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo1 (1)",
+    "duration" : 7264,
+    "title" : "Mo1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_2.mp3",
+    "href" : "https://archive.org/download/mo-3_20211128/Mo2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo1 (2)",
+    "duration" : 7264,
+    "title" : "Mo2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_3.mp3",
+    "href" : "https://archive.org/download/mo-3_20211128/Mo3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo1 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Mo3 (4)",
+    "duration" : 7443,
+    "title" : "Mo3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_1.mp3",
-    "title" : "Mo1 (1)",
+    "href" : "https://archive.org/download/mo-3_20211128/Mo1.mp3",
+    "title" : "Mo1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_2.mp3",
-    "title" : "Mo1 (2)",
+    "href" : "https://archive.org/download/mo-3_20211128/Mo2.mp3",
+    "title" : "Mo2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_3.mp3",
-    "title" : "Mo1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_52a088fd71437441079fadb55a615d10_4.mp3",
-    "title" : "Mo1 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_1.mp3",
-    "title" : "Mo2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_2.mp3",
-    "title" : "Mo2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_3.mp3",
-    "title" : "Mo2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_e2f4c6dbb2e435c0a87b326677af01fa_4.mp3",
-    "title" : "Mo2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_1.mp3",
-    "title" : "Mo3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_2.mp3",
-    "title" : "Mo3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_3.mp3",
-    "title" : "Mo3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_8afea847894f6d0e80b90400f59392df_9e7c6b164c924ed035ffd5cbaae4d05e_4.mp3",
-    "title" : "Mo3 (4)",
+    "href" : "https://archive.org/download/mo-3_20211128/Mo3.mp3",
+    "title" : "Mo3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

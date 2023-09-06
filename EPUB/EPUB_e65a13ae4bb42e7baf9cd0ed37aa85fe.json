@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
-    "duration" : 10318,
+    "published" : "2023-09-06",
+    "duration" : 20636,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_e65a13ae4bb42e7baf9cd0ed37aa85fe.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_e65a13ae4bb42e7baf9cd0ed37aa85fe.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_e65a13ae4bb42e7baf9cd0ed37aa85fe.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_e65a13ae4bb42e7baf9cd0ed37aa85fe.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e65a13ae4bb42e7baf9cd0ed37aa85fe_70065e9a7e3c550e836ca92193e3df00.mp3",
+    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/01-ChiecChiaKhoaVang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3784,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e65a13ae4bb42e7baf9cd0ed37aa85fe_988a6e4470ee384ec4be4c17558b5ad9.mp3",
+    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/02-ChiecChiaKhoaVang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3591,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e65a13ae4bb42e7baf9cd0ed37aa85fe_27364f7ab78aafa45c1945c5c42d40cb.mp3",
+    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/03-ChiecChiaKhoaVang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2943,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e65a13ae4bb42e7baf9cd0ed37aa85fe_70065e9a7e3c550e836ca92193e3df00.mp3",
+    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/01-ChiecChiaKhoaVang.mp3",
     "title" : "01-ChiecChiaKhoaVang",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e65a13ae4bb42e7baf9cd0ed37aa85fe_988a6e4470ee384ec4be4c17558b5ad9.mp3",
+    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/02-ChiecChiaKhoaVang.mp3",
     "title" : "02-ChiecChiaKhoaVang",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e65a13ae4bb42e7baf9cd0ed37aa85fe_27364f7ab78aafa45c1945c5c42d40cb.mp3",
+    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/03-ChiecChiaKhoaVang.mp3",
     "title" : "03-ChiecChiaKhoaVang",
     "children" : [ ]
   } ],
