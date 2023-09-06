@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 42906,
+    "published" : "2023-09-06",
+    "duration" : 45549,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,33 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/EPUB/EPUB_1d1b4ed012e6264b0ac84624508ddeea.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_1d1b4ed012e6264b0ac84624508ddeea.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/IMAGE/IMAGE_1d1b4ed012e6264b0ac84624508ddeea.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_1d1b4ed012e6264b0ac84624508ddeea.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6d6d83d3a5457b48969c2b92fb1cb43d_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc (1)",
+    "duration" : 2553,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6d6d83d3a5457b48969c2b92fb1cb43d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_beda51888ebc2eca1104ef6005ba7f84.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2643,
@@ -60,377 +52,169 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_2b86dae223432402c9f59d9b330bff5c_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc (1)",
+    "duration" : 3258,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_2b86dae223432402c9f59d9b330bff5c_2.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc (2)",
+    "duration" : 2823,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_2b86dae223432402c9f59d9b330bff5c_3.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc (3)",
+    "duration" : 2973,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_1a73f4d47f52de8fa3c8eba720730adf_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc (1)",
+    "duration" : 3379,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_1a73f4d47f52de8fa3c8eba720730adf_2.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc (2)",
+    "duration" : 2523,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_5a4ca18168eb3b1b47423784366bedd0_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc (1)",
+    "duration" : 2238,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_5a4ca18168eb3b1b47423784366bedd0_2.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc (2)",
+    "duration" : 2643,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_42588623c5a3cb2c185aa074ac38c56e_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc (1)",
+    "duration" : 2763,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_42588623c5a3cb2c185aa074ac38c56e_2.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc (2)",
+    "duration" : 2718,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_42588623c5a3cb2c185aa074ac38c56e_3.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc (3)",
+    "duration" : 2943,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6a22bf12af460da0085b8de75e6139e5_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc (1)",
+    "duration" : 2623,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6a22bf12af460da0085b8de75e6139e5_2.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc (2)",
+    "duration" : 3243,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_00682b676499b29dff012a3e811d871c_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_00682b676499b29dff012a3e811d871c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_415c3976c729605abf58d541921f72c0_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_415c3976c729605abf58d541921f72c0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_4cb01cb20d6feefbb517326034886538_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_4cb01cb20d6feefbb517326034886538_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_9fff9cc670d9bd1c6e4b0c6ce26b564f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_9fff9cc670d9bd1c6e4b0c6ce26b564f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_ef56dd05ba222c3e734e85a508924299_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_ef56dd05ba222c3e734e85a508924299_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_16a96fee630a9323cb7d599e6c2f69d3_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_16a96fee630a9323cb7d599e6c2f69d3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_753e6c748de9c23cb76961301f58afdb_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_753e6c748de9c23cb76961301f58afdb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_753e6c748de9c23cb76961301f58afdb_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_95774a173fa84a2ea15f5bae2f7deec2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_95774a173fa84a2ea15f5bae2f7deec2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_95774a173fa84a2ea15f5bae2f7deec2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc (3)",
+    "duration" : 3583,
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6d6d83d3a5457b48969c2b92fb1cb43d_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/1.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6d6d83d3a5457b48969c2b92fb1cb43d_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_beda51888ebc2eca1104ef6005ba7f84.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/10.mp3",
     "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_2b86dae223432402c9f59d9b330bff5c_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/11.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_2b86dae223432402c9f59d9b330bff5c_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/12.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_2b86dae223432402c9f59d9b330bff5c_3.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc (3)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/13.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_1a73f4d47f52de8fa3c8eba720730adf_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/14.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_1a73f4d47f52de8fa3c8eba720730adf_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/15.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_5a4ca18168eb3b1b47423784366bedd0_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/2.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_5a4ca18168eb3b1b47423784366bedd0_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/3.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_42588623c5a3cb2c185aa074ac38c56e_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/4.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_42588623c5a3cb2c185aa074ac38c56e_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/5.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_42588623c5a3cb2c185aa074ac38c56e_3.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc (3)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/6.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6a22bf12af460da0085b8de75e6139e5_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/7.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_6a22bf12af460da0085b8de75e6139e5_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/8.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_00682b676499b29dff012a3e811d871c_1.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_00682b676499b29dff012a3e811d871c_2.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_415c3976c729605abf58d541921f72c0_1.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_415c3976c729605abf58d541921f72c0_2.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_4cb01cb20d6feefbb517326034886538_1.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_4cb01cb20d6feefbb517326034886538_2.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_9fff9cc670d9bd1c6e4b0c6ce26b564f_1.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_9fff9cc670d9bd1c6e4b0c6ce26b564f_2.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_ef56dd05ba222c3e734e85a508924299_1.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_ef56dd05ba222c3e734e85a508924299_2.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_16a96fee630a9323cb7d599e6c2f69d3_1.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_16a96fee630a9323cb7d599e6c2f69d3_2.mp3",
-    "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_753e6c748de9c23cb76961301f58afdb_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_753e6c748de9c23cb76961301f58afdb_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_753e6c748de9c23cb76961301f58afdb_3.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_95774a173fa84a2ea15f5bae2f7deec2_1.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_95774a173fa84a2ea15f5bae2f7deec2_2.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three2/main/AUDIO/AUDIO_1d1b4ed012e6264b0ac84624508ddeea_95774a173fa84a2ea15f5bae2f7deec2_3.mp3",
-    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc (3)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/9.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

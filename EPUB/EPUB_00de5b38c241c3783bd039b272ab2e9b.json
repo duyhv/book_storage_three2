@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-06",
-    "duration" : 12512,
+    "published" : "2023-09-06",
+    "duration" : 25024,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/EPUB/EPUB_00de5b38c241c3783bd039b272ab2e9b.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/EPUB/EPUB_00de5b38c241c3783bd039b272ab2e9b.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three2/main/IMAGE/IMAGE_00de5b38c241c3783bd039b272ab2e9b.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three2/main/IMAGE/IMAGE_00de5b38c241c3783bd039b272ab2e9b.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_c874c03421d9f4a55cdc765b235acc9b.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1583,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_8e8abb45287c0ea3ce80ef61d872f6f3.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1940,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_c2db6bbdbf9b02e6e05d622a08c3adaf.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1790,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_dfd69af412954f77a6942e8ca4a99b0a.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1766,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_d1e70a6c5c9638c70d7c9fdaad347b6a.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2854,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_0b478b3d70ead3244fb36ea3a3aee1c5.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2579,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_c874c03421d9f4a55cdc765b235acc9b.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-1.mp3",
     "title" : "muon-ve-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_8e8abb45287c0ea3ce80ef61d872f6f3.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-2.mp3",
     "title" : "muon-ve-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_c2db6bbdbf9b02e6e05d622a08c3adaf.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-3.mp3",
     "title" : "muon-ve-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_dfd69af412954f77a6942e8ca4a99b0a.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-4.mp3",
     "title" : "muon-ve-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_d1e70a6c5c9638c70d7c9fdaad347b6a.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-5.mp3",
     "title" : "muon-ve-5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_00de5b38c241c3783bd039b272ab2e9b_0b478b3d70ead3244fb36ea3a3aee1c5.mp3",
+    "href" : "https://archive.org/download/muon-ve-5/muon-ve-6.mp3",
     "title" : "muon-ve-6",
     "children" : [ ]
   } ],
