@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-16",
     "duration" : 4762,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cuoc-song-tuoi-dep-og-mandino.sna/cuoc-song-tuoi-dep-og-mandino.mp3",
+    "href" : "https://archive.org/download/e57ccbd8652eb42602b51e6c35e4d234/cuoc-song-tuoi-dep-og-mandino.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4762,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cuoc-song-tuoi-dep-og-mandino.sna/cuoc-song-tuoi-dep-og-mandino.mp3",
+    "href" : "https://archive.org/download/e57ccbd8652eb42602b51e6c35e4d234/cuoc-song-tuoi-dep-og-mandino.mp3",
     "title" : "cuoc-song-tuoi-dep-og-mandino",
     "children" : [ ]
   } ],

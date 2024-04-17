@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 20636,
+    "published" : "2024-04-16",
+    "duration" : 10318,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/01-ChiecChiaKhoaVang.mp3",
+    "href" : "https://archive.org/download/e65a13ae4bb42e7baf9cd0ed37aa85fe/01-chiecchiakhoavang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3784,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/02-ChiecChiaKhoaVang.mp3",
+    "href" : "https://archive.org/download/e65a13ae4bb42e7baf9cd0ed37aa85fe/02-chiecchiakhoavang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3591,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/03-ChiecChiaKhoaVang.mp3",
+    "href" : "https://archive.org/download/e65a13ae4bb42e7baf9cd0ed37aa85fe/03-chiecchiakhoavang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2943,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/01-ChiecChiaKhoaVang.mp3",
+    "href" : "https://archive.org/download/e65a13ae4bb42e7baf9cd0ed37aa85fe/01-chiecchiakhoavang.mp3",
     "title" : "01-ChiecChiaKhoaVang",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/02-ChiecChiaKhoaVang.mp3",
+    "href" : "https://archive.org/download/e65a13ae4bb42e7baf9cd0ed37aa85fe/02-chiecchiakhoavang.mp3",
     "title" : "02-ChiecChiaKhoaVang",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachsoi.vnChiecchiakhoavang/03-ChiecChiaKhoaVang.mp3",
+    "href" : "https://archive.org/download/e65a13ae4bb42e7baf9cd0ed37aa85fe/03-chiecchiakhoavang.mp3",
     "title" : "03-ChiecChiaKhoaVang",
     "children" : [ ]
   } ],
