@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 18472,
+    "published" : "2024-04-22",
+    "duration" : 16436,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-1.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-2.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-3.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-4.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-5.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2036,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-1.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-1.mp3",
     "title" : "truyen-co-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-2.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-2.mp3",
     "title" : "truyen-co-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-3.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-3.mp3",
     "title" : "truyen-co-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-4.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-4.mp3",
     "title" : "truyen-co-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-co-1_202204/truyen-co-5.mp3",
+    "href" : "https://archive.org/download/ddccc0b38e2e514737128e6966d699a4/truyen-co-5.mp3",
     "title" : "truyen-co-5",
     "children" : [ ]
   } ],
