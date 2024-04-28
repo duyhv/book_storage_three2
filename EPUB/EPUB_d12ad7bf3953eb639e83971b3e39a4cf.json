@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 15129,
+    "published" : "2024-04-28",
+    "duration" : 11229,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-1.mp3",
+    "href" : "https://archive.org/download/d12ad7bf3953eb639e83971b3e39a4cf/chuyen-nho-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-2.mp3",
+    "href" : "https://archive.org/download/d12ad7bf3953eb639e83971b3e39a4cf/chuyen-nho-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-3.mp3",
+    "href" : "https://archive.org/download/d12ad7bf3953eb639e83971b3e39a4cf/chuyen-nho-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3429,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-1.mp3",
+    "href" : "https://archive.org/download/d12ad7bf3953eb639e83971b3e39a4cf/chuyen-nho-1.mp3",
     "title" : "chuyen-nho-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-2.mp3",
+    "href" : "https://archive.org/download/d12ad7bf3953eb639e83971b3e39a4cf/chuyen-nho-2.mp3",
     "title" : "chuyen-nho-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-3.mp3",
+    "href" : "https://archive.org/download/d12ad7bf3953eb639e83971b3e39a4cf/chuyen-nho-3.mp3",
     "title" : "chuyen-nho-3",
     "children" : [ ]
   } ],
