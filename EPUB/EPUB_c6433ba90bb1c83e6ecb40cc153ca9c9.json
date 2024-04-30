@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 34688,
+    "published" : "2024-04-29",
+    "duration" : 17344,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/1.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3320,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/2.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3514,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/3.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3713,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/4.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3757,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/5.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3040,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/1.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/2.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/3.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/4.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phap-su-quy-an_202010/5.mp3",
+    "href" : "https://archive.org/download/c6433ba90bb1c83e6ecb40cc153ca9c9/truyen-ma-moi-ve-phap-su-mc-dinh-soan-ke-that-la-ron.mp3",
     "title" : "Truyện Ma Mới Về Pháp Sư Mc Đình Soạn Kể Thật Là Rợn",
     "children" : [ ]
   } ],
