@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 97952,
+    "published" : "2024-05-02",
+    "duration" : 48976,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P01.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3292,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P02.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3422,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P03.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3097,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P04.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3100,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P05.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3225,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P06.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2998,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P07.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1208,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P08.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3052,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P09.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2655,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P10.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2514,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P11.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2823,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P12.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3418,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P13.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2564,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P14.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1840,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P15.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2035,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P16.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2322,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P17.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2307,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFacebook_P00_GioiThieu.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p00-gioithieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3104,
@@ -181,75 +181,75 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P01.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p01.mp3",
     "title" : "HieuUngFaceBook P01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P02.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p02.mp3",
     "title" : "HieuUngFaceBook P02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P03.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p03.mp3",
     "title" : "HieuUngFaceBook P03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P04.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p04.mp3",
     "title" : "HieuUngFaceBook P04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P05.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p05.mp3",
     "title" : "HieuUngFaceBook P05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P06.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p06.mp3",
     "title" : "HieuUngFaceBook P06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P07.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p07.mp3",
     "title" : "HieuUngFaceBook P07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P08.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p08.mp3",
     "title" : "HieuUngFaceBook P08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P09.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p09.mp3",
     "title" : "HieuUngFaceBook P09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P10.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p10.mp3",
     "title" : "HieuUngFaceBook P10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P11.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p11.mp3",
     "title" : "HieuUngFaceBook P11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P12.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p12.mp3",
     "title" : "HieuUngFaceBook P12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P13.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p13.mp3",
     "title" : "HieuUngFaceBook P13",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P14.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p14.mp3",
     "title" : "HieuUngFaceBook P14",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P15.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p15.mp3",
     "title" : "HieuUngFaceBook P15",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P16.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p16.mp3",
     "title" : "HieuUngFaceBook P16",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFaceBook_P17.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p17.mp3",
     "title" : "HieuUngFaceBook P17",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnHieuUngFacebook/HieuUngFacebook_P00_GioiThieu.mp3",
+    "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p00-gioithieu.mp3",
     "title" : "HieuUngFacebook P00 GioiThieu",
     "children" : [ ]
   } ],
