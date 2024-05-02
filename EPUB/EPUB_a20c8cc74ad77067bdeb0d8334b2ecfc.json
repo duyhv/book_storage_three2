@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 34069,
+    "published" : "2024-05-02",
+    "duration" : 28872,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/kiep-dan-ba/1.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/truyen-ngan-cuc-hay-ve-gia-dinh-khi-chong-ngoai-tinh-va-kiem-co-ly-hon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5197,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kiep-dan-ba/2.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/kiep-dan-ba-tap-2-truyen-ngan-ve-hon-nhan-va-cuoc-song-ham-hiu-cua-nu-chinh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7293,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kiep-dan-ba/3.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/kiep-dan-ba-tap-3-truyen-ngan-hay-ve-hon-nhan-khi-danh-mat-tat-ca.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8723,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kiep-dan-ba/4.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/kiep-dan-ba-tap-4-truyen-ngan-co-hau-cho-moi-tinh-tuyet-dep-cua-van-va-phong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7659,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/kiep-dan-ba/1.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/truyen-ngan-cuc-hay-ve-gia-dinh-khi-chong-ngoai-tinh-va-kiem-co-ly-hon.mp3",
     "title" : "Truyện Ngắn Cực Hay Về Gia Đình Khi Chồng Ngoại Tình Và Kiếm Cớ Ly Hôn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kiep-dan-ba/2.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/kiep-dan-ba-tap-2-truyen-ngan-ve-hon-nhan-va-cuoc-song-ham-hiu-cua-nu-chinh.mp3",
     "title" : "Kiếp Đàn Bà [Tập 2] Truyện Ngắn Về Hôn Nhân Và Cuộc Sống Hẩm Hiu Của Nữ Chính",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kiep-dan-ba/3.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/kiep-dan-ba-tap-3-truyen-ngan-hay-ve-hon-nhan-khi-danh-mat-tat-ca.mp3",
     "title" : "Kiếp Đàn Bà [Tập 3] Truyện Ngắn Hay Về Hôn Nhân Khi Đánh Mất Tất Cả",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kiep-dan-ba/4.mp3",
+    "href" : "https://archive.org/download/a20c8cc74ad77067bdeb0d8334b2ecfc/kiep-dan-ba-tap-4-truyen-ngan-co-hau-cho-moi-tinh-tuyet-dep-cua-van-va-phong.mp3",
     "title" : "Kiếp Đàn Bà [Tập 4] Truyện Ngắn Có Hậu Cho Mối Tình Tuyệt Đẹp Của Vân và Phong",
     "children" : [ ]
   } ],
