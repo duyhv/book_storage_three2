@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 24255,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dai-nghia-diet-than/1.mp3",
+    "href" : "https://archive.org/download/83b05692e6572cfe78d7e87ae7d96b0a/truyen-dai-cua-ho-bieu-chanh-nghe-truyen-xua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7200,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dai-nghia-diet-than/2.mp3",
+    "href" : "https://archive.org/download/83b05692e6572cfe78d7e87ae7d96b0a/truyen-dai-cua-ho-bieu-chanh-nghe-truyen-xua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7200,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dai-nghia-diet-than/3.mp3",
+    "href" : "https://archive.org/download/83b05692e6572cfe78d7e87ae7d96b0a/truyen-dai-cua-ho-bieu-chanh-nghe-truyen-xua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9855,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dai-nghia-diet-than/1.mp3",
+    "href" : "https://archive.org/download/83b05692e6572cfe78d7e87ae7d96b0a/truyen-dai-cua-ho-bieu-chanh-nghe-truyen-xua.mp3",
     "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dai-nghia-diet-than/2.mp3",
+    "href" : "https://archive.org/download/83b05692e6572cfe78d7e87ae7d96b0a/truyen-dai-cua-ho-bieu-chanh-nghe-truyen-xua.mp3",
     "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dai-nghia-diet-than/3.mp3",
+    "href" : "https://archive.org/download/83b05692e6572cfe78d7e87ae7d96b0a/truyen-dai-cua-ho-bieu-chanh-nghe-truyen-xua.mp3",
     "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "children" : [ ]
   } ],
