@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 17930,
+    "published" : "2024-05-02",
+    "duration" : 8965,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/luoc-truyen-1/luoc-truyen-1.mp3",
+    "href" : "https://archive.org/download/7a6c7712543d6642503be106c171558c/luoc-truyen-duc-phat-thich-ca.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4615,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/luoc-truyen-1/luoc-truyen-2.mp3",
+    "href" : "https://archive.org/download/7a6c7712543d6642503be106c171558c/luoc-truyen-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4350,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/luoc-truyen-1/luoc-truyen-1.mp3",
+    "href" : "https://archive.org/download/7a6c7712543d6642503be106c171558c/luoc-truyen-duc-phat-thich-ca.mp3",
     "title" : "Luoc Truyen Duc Phat Thich Ca",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/luoc-truyen-1/luoc-truyen-2.mp3",
+    "href" : "https://archive.org/download/7a6c7712543d6642503be106c171558c/luoc-truyen-2.mp3",
     "title" : "luoc-truyen-2",
     "children" : [ ]
   } ],

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 29264,
+    "published" : "2024-05-02",
+    "duration" : 14632,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/1-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1696,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_2.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/2-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2047,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_3.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/3-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2343,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_4.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/4-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2524,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_5.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/5-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2417,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_6.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/6-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2037,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_7.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/7-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1568,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/1-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_2.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/2-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_3.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/3-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_4.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/4-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_5.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/5-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_6.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/6-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/BiMatCuaVuaSolomonNguoiGiauNhatLichSuNhanLoai/B%25C3%25AD%20M%25E1%25BA%25ADt%20C%25E1%25BB%25A7a%20Vua%20Solomon%20-%20Ng%25C6%25B0%25E1%25BB%259Di%20Gi%25C3%25A0u%20Nh%25E1%25BA%25A5t%20L%25E1%25BB%258Bch%20S%25E1%25BB%25AD%20Nh%25C3%25A2n%20Lo%25E1%25BA%25A1i_7.mp3",
+    "href" : "https://archive.org/download/a0e7ff544589ebfcde2debed9e1526c1/7-b-c3-ad-m-e1-ba-adt-c-e1-bb-a7a-vua-solomon-ng-c6-b0-e1-bb-9di-gi-c3-a0u-nh-e1-ba-a5t-.mp3",
     "title" : "B%C3%AD M%E1%BA%ADt C%E1%BB%A7a Vua Solomon - Ng%C6%B0%E1%BB%9Di Gi%C3%A0u Nh%E1%BA%A5t...",
     "children" : [ ]
   } ],

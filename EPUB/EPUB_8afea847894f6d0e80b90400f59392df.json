@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 21971,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mo-3_20211128/Mo1.mp3",
+    "href" : "https://archive.org/download/8afea847894f6d0e80b90400f59392df/1-mo1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7264,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mo-3_20211128/Mo2.mp3",
+    "href" : "https://archive.org/download/8afea847894f6d0e80b90400f59392df/2-mo2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7264,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mo-3_20211128/Mo3.mp3",
+    "href" : "https://archive.org/download/8afea847894f6d0e80b90400f59392df/3-mo3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7443,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mo-3_20211128/Mo1.mp3",
+    "href" : "https://archive.org/download/8afea847894f6d0e80b90400f59392df/1-mo1.mp3",
     "title" : "Mo1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mo-3_20211128/Mo2.mp3",
+    "href" : "https://archive.org/download/8afea847894f6d0e80b90400f59392df/2-mo2.mp3",
     "title" : "Mo2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mo-3_20211128/Mo3.mp3",
+    "href" : "https://archive.org/download/8afea847894f6d0e80b90400f59392df/3-mo3.mp3",
     "title" : "Mo3",
     "children" : [ ]
   } ],
