@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 11754,
+    "published" : "2024-05-05",
+    "duration" : 5877,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_01.mp3",
+    "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/1-hoang-tu-ham-doc-sach-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1901,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_02.mp3",
+    "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/2-hoang-tu-ham-doc-sach-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2229,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_03.mp3",
+    "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/3-hoang-tu-ham-doc-sach-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1747,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_01.mp3",
+    "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/1-hoang-tu-ham-doc-sach-01.mp3",
     "title" : "HOANG TU HAM DOC SACH 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_02.mp3",
+    "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/2-hoang-tu-ham-doc-sach-02.mp3",
     "title" : "HOANG TU HAM DOC SACH 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_03.mp3",
+    "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/3-hoang-tu-ham-doc-sach-03.mp3",
     "title" : "HOANG TU HAM DOC SACH 03",
     "children" : [ ]
   } ],

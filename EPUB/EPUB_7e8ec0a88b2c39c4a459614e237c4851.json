@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 33000,
+    "published" : "2024-05-05",
+    "duration" : 16500,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hai-nguoi-me/Chi%E1%BA%BFc%20xe%20%C4%91%E1%BA%A1p%20v%C3%A0%20m%E1%BA%B9.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/1-chiec-xe-dap-va-me.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2448,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/Hai%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%B9.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/2-hai-nguoi-me.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2905,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/Kh%C3%B4ng%20th%E1%BB%83%20nghi%20ng%E1%BB%9D.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/3-khong-the-nghi-ngo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2712,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/L%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/4-loi-noi-doi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2838,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/Ph%C3%BAt%20gi%C3%A2y%20m%E1%BA%B9%20v%C3%A0%20con.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/5-phut-giay-me-va-con.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2786,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/R%E1%BB%93i%20s%E1%BA%BD%20%E1%BB%95n%20th%C3%B4i.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/6-roi-se-on-thoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2811,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hai-nguoi-me/Chi%E1%BA%BFc%20xe%20%C4%91%E1%BA%A1p%20v%C3%A0%20m%E1%BA%B9.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/1-chiec-xe-dap-va-me.mp3",
     "title" : "Chiếc xe đạp và mẹ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/Hai%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%B9.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/2-hai-nguoi-me.mp3",
     "title" : "Hai người mẹ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/Kh%C3%B4ng%20th%E1%BB%83%20nghi%20ng%E1%BB%9D.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/3-khong-the-nghi-ngo.mp3",
     "title" : "Không thể nghi ngờ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/L%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/4-loi-noi-doi.mp3",
     "title" : "Lời nói dối",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/Ph%C3%BAt%20gi%C3%A2y%20m%E1%BA%B9%20v%C3%A0%20con.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/5-phut-giay-me-va-con.mp3",
     "title" : "Phút giây mẹ và con",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-nguoi-me/R%E1%BB%93i%20s%E1%BA%BD%20%E1%BB%95n%20th%C3%B4i.mp3",
+    "href" : "https://archive.org/download/7e8ec0a88b2c39c4a459614e237c4851/6-roi-se-on-thoi.mp3",
     "title" : "Rồi sẽ ổn thôi",
     "children" : [ ]
   } ],

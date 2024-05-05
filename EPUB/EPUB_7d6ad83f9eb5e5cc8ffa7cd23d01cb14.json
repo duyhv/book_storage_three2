@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 22853,
+    "published" : "2024-05-05",
+    "duration" : 17264,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/heidi-7/heidi-1.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/1-truyen-audio-heidi-co-be-tren-nui-cao-chuong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2510,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-2.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/2-truyen-audio-heidi-co-be-tren-nui-cao-chuong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3207,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-3.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/3-truyen-audio-heidi-co-be-tren-nui-cao-chuong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2082,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-4.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/4-truyen-audio-heidi-co-be-tren-nui-cao-chuong-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2709,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-5.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/5-truyen-audio-heidi-co-be-tren-nui-cao-chuong-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1687,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-6.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/6-heidi-co-be-tren-nui-cao-chuong-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1820,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-7.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/7-heidi-co-be-tren-nui-cao-chuong-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3249,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/heidi-7/heidi-1.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/1-truyen-audio-heidi-co-be-tren-nui-cao-chuong-1.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-2.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/2-truyen-audio-heidi-co-be-tren-nui-cao-chuong-3.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-3.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/3-truyen-audio-heidi-co-be-tren-nui-cao-chuong-5.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-4.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/4-truyen-audio-heidi-co-be-tren-nui-cao-chuong-7.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-5.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/5-truyen-audio-heidi-co-be-tren-nui-cao-chuong-9.mp3",
     "title" : "Truyện Audio | Heidi CÔ BÉ TRÊN NÚI CAO | Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-6.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/6-heidi-co-be-tren-nui-cao-chuong-11.mp3",
     "title" : "Heidi CÔ BÉ TRÊN NÚI CAO | Chương 11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/heidi-7/heidi-7.mp3",
+    "href" : "https://archive.org/download/7d6ad83f9eb5e5cc8ffa7cd23d01cb14/7-heidi-co-be-tren-nui-cao-chuong-13.mp3",
     "title" : "Heidi CÔ BÉ TRÊN NÚI CAO | Chương 13",
     "children" : [ ]
   } ],
