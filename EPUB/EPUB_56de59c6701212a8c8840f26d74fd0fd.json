@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 51966,
+    "published" : "2024-05-06",
+    "duration" : 25983,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-01.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/1-gap-lai-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1560,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-02.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/2-gap-lai-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1906,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-03.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/3-gap-lai-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2219,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-04.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/4-gap-lai-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1928,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-05.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/5-gap-lai-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2054,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-06.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/6-gap-lai-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2433,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-07.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/7-gap-lai-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2012,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-08.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/8-gap-lai-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2362,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-09.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/9-gap-lai-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1945,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-10.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/10-gap-lai-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1434,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-11.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/11-gap-lai-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1750,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-12.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/12-gap-lai-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1773,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-13.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/13-gap-lai-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1319,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-14.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/14-gap-lai-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1288,
@@ -149,59 +149,59 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-01.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/1-gap-lai-01.mp3",
     "title" : "gap-lai-01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-02.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/2-gap-lai-02.mp3",
     "title" : "gap-lai-02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-03.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/3-gap-lai-03.mp3",
     "title" : "gap-lai-03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-04.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/4-gap-lai-04.mp3",
     "title" : "gap-lai-04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-05.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/5-gap-lai-05.mp3",
     "title" : "gap-lai-05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-06.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/6-gap-lai-06.mp3",
     "title" : "gap-lai-06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-07.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/7-gap-lai-07.mp3",
     "title" : "gap-lai-07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-08.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/8-gap-lai-08.mp3",
     "title" : "gap-lai-08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-09.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/9-gap-lai-09.mp3",
     "title" : "gap-lai-09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-10.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/10-gap-lai-10.mp3",
     "title" : "gap-lai-10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-11.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/11-gap-lai-11.mp3",
     "title" : "gap-lai-11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-12.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/12-gap-lai-12.mp3",
     "title" : "gap-lai-12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-13.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/13-gap-lai-13.mp3",
     "title" : "gap-lai-13",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/gap-lai-06/gap-lai-14.mp3",
+    "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/14-gap-lai-14.mp3",
     "title" : "gap-lai-14",
     "children" : [ ]
   } ],

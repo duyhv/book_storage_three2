@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 20276,
+    "published" : "2024-05-06",
+    "duration" : 13101,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p01.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/1-nang-trong-vuon-thach-lam-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2984,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p02.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/2-nang-trong-vuon-thach-lam-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2290,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p03.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/3-nang-trong-vuon-thach-lam-p03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2542,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p04.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/4-nang-trong-vuon-thach-lam-p04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2942,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p05.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/5-nang-trong-vuon-thach-lam-p05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2343,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p01.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/1-nang-trong-vuon-thach-lam-p01.mp3",
     "title" : "nang-trong-vuon-thach-lam p01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p02.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/2-nang-trong-vuon-thach-lam-p02.mp3",
     "title" : "nang-trong-vuon-thach-lam p02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p03.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/3-nang-trong-vuon-thach-lam-p03.mp3",
     "title" : "nang-trong-vuon-thach-lam p03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p04.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/4-nang-trong-vuon-thach-lam-p04.mp3",
     "title" : "nang-trong-vuon-thach-lam p04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nang-trong-vuon-thach-lam.sna/nang-trong-vuon-thach-lam_p05.mp3",
+    "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/5-nang-trong-vuon-thach-lam-p05.mp3",
     "title" : "nang-trong-vuon-thach-lam p05",
     "children" : [ ]
   } ],

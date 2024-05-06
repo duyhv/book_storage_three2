@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 5525,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mot-mai-1/mot-mai-1.mp3",
+    "href" : "https://archive.org/download/5b5dfd3bff1279ff8064a3c4d4516534/1-mot-mai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2815,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mot-mai-1/mot-mai-2.mp3",
+    "href" : "https://archive.org/download/5b5dfd3bff1279ff8064a3c4d4516534/2-mot-mai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2710,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mot-mai-1/mot-mai-1.mp3",
+    "href" : "https://archive.org/download/5b5dfd3bff1279ff8064a3c4d4516534/1-mot-mai-1.mp3",
     "title" : "mot-mai-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mot-mai-1/mot-mai-2.mp3",
+    "href" : "https://archive.org/download/5b5dfd3bff1279ff8064a3c4d4516534/2-mot-mai-2.mp3",
     "title" : "mot-mai-2",
     "children" : [ ]
   } ],
