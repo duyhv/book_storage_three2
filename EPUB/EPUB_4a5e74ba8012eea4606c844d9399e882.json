@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 11668,
+    "published" : "2024-05-07",
+    "duration" : 5834,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_01.mp3",
+    "href" : "https://archive.org/download/4a5e74ba8012eea4606c844d9399e882/1-minh-sinh-ra-dau-phai-de-buon-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2270,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_02.mp3",
+    "href" : "https://archive.org/download/4a5e74ba8012eea4606c844d9399e882/2-minh-sinh-ra-dau-phai-de-buon-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1363,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_03.mp3",
+    "href" : "https://archive.org/download/4a5e74ba8012eea4606c844d9399e882/3-minh-sinh-ra-dau-phai-de-buon-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2201,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_01.mp3",
+    "href" : "https://archive.org/download/4a5e74ba8012eea4606c844d9399e882/1-minh-sinh-ra-dau-phai-de-buon-01.mp3",
     "title" : "MINH SINH RA DAU PHAI DE BUON 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_02.mp3",
+    "href" : "https://archive.org/download/4a5e74ba8012eea4606c844d9399e882/2-minh-sinh-ra-dau-phai-de-buon-02.mp3",
     "title" : "MINH SINH RA DAU PHAI DE BUON 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_03.mp3",
+    "href" : "https://archive.org/download/4a5e74ba8012eea4606c844d9399e882/3-minh-sinh-ra-dau-phai-de-buon-03.mp3",
     "title" : "MINH SINH RA DAU PHAI DE BUON 03",
     "children" : [ ]
   } ],

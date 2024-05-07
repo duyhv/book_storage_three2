@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 40265,
+    "published" : "2024-05-07",
+    "duration" : 21748,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-1.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/1-tran-nhan-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2815,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-2.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/2-tran-nhan-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3231,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-3.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/3-tran-nhan-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2815,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-4.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/4-tran-nhan-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2012,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-5.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/5-tran-nhan-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4219,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-6.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/6-tran-nhan-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2124,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-7.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/7-tran-nhan-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2607,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-8.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/8-tran-nhan-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1925,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-1.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/1-tran-nhan-1.mp3",
     "title" : "tran-nhan-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-2.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/2-tran-nhan-2.mp3",
     "title" : "tran-nhan-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-3.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/3-tran-nhan-3.mp3",
     "title" : "tran-nhan-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-4.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/4-tran-nhan-4.mp3",
     "title" : "tran-nhan-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-5.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/5-tran-nhan-5.mp3",
     "title" : "tran-nhan-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-6.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/6-tran-nhan-6.mp3",
     "title" : "tran-nhan-6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-7.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/7-tran-nhan-7.mp3",
     "title" : "tran-nhan-7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tran-nhan-5/tran-nhan-8.mp3",
+    "href" : "https://archive.org/download/4cc99b3d8bb8225074c4b6b1e9271cb7/8-tran-nhan-8.mp3",
     "title" : "tran-nhan-8",
     "children" : [ ]
   } ],
