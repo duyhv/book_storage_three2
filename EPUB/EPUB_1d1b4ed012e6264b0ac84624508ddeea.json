@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 45549,
+    "published" : "2024-05-08",
+    "duration" : 42906,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/1.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/1-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-01-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2553,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/10.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/2-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/11.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/3-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-11-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3258,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/12.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/4-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-12-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2823,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/13.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/5-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-13-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2973,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/14.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/6-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-14-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3379,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/15.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/7-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-15-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2523,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/2.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/8-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-02-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2238,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/3.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/9-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-03-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2643,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/4.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/10-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-04-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2763,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/5.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/11-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-05-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2718,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/6.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/12-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-06-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2943,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/7.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/13-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-07-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2623,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/8.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/14-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-08-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3243,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/9.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/15-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-09-thanh-binh-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3583,
@@ -157,63 +157,63 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/1.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/1-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-01-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #01 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/10.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/2-10.mp3",
     "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/11.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/3-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-11-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #11 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/12.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/4-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-12-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #12 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/13.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/5-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-13-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #13 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/14.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/6-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-14-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #14 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/15.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/7-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-15-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #15 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/2.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/8-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-02-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #02 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/3.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/9-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-03-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #03 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/4.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/10-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-04-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #04 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/5.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/11-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-05-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #05 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/6.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/12-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-06-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #06 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/7.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/13-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-07-tu-kim-tran-thanh-binh-dien-doc.mp3",
     "title" : "Truyện Trinh Thám Kinh Dị Hay Nhất - Tội Lỗi Không Chứng Cứ #07 Tử Kim Trần - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/8.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/14-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-08-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #08 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_toi_loi_khong_chung_cu/9.mp3",
+    "href" : "https://archive.org/download/1d1b4ed012e6264b0ac84624508ddeea/15-truyen-trinh-tham-kinh-di-hay-nhat-toi-loi-khong-chung-cu-09-thanh-binh-dien-doc.mp3",
     "title" : "Truyện trinh thám kinh dị hay nhất - Tội Lỗi Không Chứng Cứ #09 - Thanh Bình Diễn Đọc",
     "children" : [ ]
   } ],

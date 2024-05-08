@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 21399,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%201.mp3",
+    "href" : "https://archive.org/download/333eb794ad00144194e3240da57ee299/1-chua-ruoi-william-golding-phan-1-audiobook-di-va-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9899,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%202.mp3",
+    "href" : "https://archive.org/download/333eb794ad00144194e3240da57ee299/2-chua-ruoi-william-golding-phan-2-het-audiobook-di-va-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11500,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%201.mp3",
+    "href" : "https://archive.org/download/333eb794ad00144194e3240da57ee299/1-chua-ruoi-william-golding-phan-1-audiobook-di-va-doc.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%202.mp3",
+    "href" : "https://archive.org/download/333eb794ad00144194e3240da57ee299/2-chua-ruoi-william-golding-phan-2-het-audiobook-di-va-doc.mp3",
     "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC",
     "children" : [ ]
   } ],
