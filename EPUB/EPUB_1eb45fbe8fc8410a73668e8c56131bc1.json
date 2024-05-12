@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 39486,
+    "published" : "2024-05-11",
+    "duration" : 31874,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_01.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/1-tieu-thuyet-tan-thuy-hoang-doanh-chinh-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3196,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_02.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/2-tieu-thuyet-tan-thuy-hoang-doanh-chinh-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1696,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_03.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/3-tieu-thuyet-tan-thuy-hoang-doanh-chinh-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2870,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_04.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/4-tieu-thuyet-tan-thuy-hoang-doanh-chinh-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2128,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_05.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/5-tieu-thuyet-tan-thuy-hoang-doanh-chinh-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3832,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_06.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/6-tieu-thuyet-tan-thuy-hoang-doanh-chinh-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2879,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_07.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/7-tieu-thuyet-tan-thuy-hoang-doanh-chinh-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1965,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_08.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/8-tieu-thuyet-tan-thuy-hoang-doanh-chinh-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2830,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_09.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/9-tieu-thuyet-tan-thuy-hoang-doanh-chinh-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2796,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_10.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/10-tieu-thuyet-tan-thuy-hoang-doanh-chinh-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3230,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_11.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/11-tieu-thuyet-tan-thuy-hoang-doanh-chinh-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2629,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_12.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/12-tieu-thuyet-tan-thuy-hoang-doanh-chinh-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1823,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_01.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/1-tieu-thuyet-tan-thuy-hoang-doanh-chinh-01.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_02.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/2-tieu-thuyet-tan-thuy-hoang-doanh-chinh-02.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_03.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/3-tieu-thuyet-tan-thuy-hoang-doanh-chinh-03.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_04.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/4-tieu-thuyet-tan-thuy-hoang-doanh-chinh-04.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_05.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/5-tieu-thuyet-tan-thuy-hoang-doanh-chinh-05.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_06.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/6-tieu-thuyet-tan-thuy-hoang-doanh-chinh-06.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_07.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/7-tieu-thuyet-tan-thuy-hoang-doanh-chinh-07.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_08.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/8-tieu-thuyet-tan-thuy-hoang-doanh-chinh-08.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_09.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/9-tieu-thuyet-tan-thuy-hoang-doanh-chinh-09.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_10.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/10-tieu-thuyet-tan-thuy-hoang-doanh-chinh-10.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_11.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/11-tieu-thuyet-tan-thuy-hoang-doanh-chinh-11.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieu-thuyet-tan-thuy-hoang-doanh-chinh-05_202111/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20T%E1%BA%A7n%20Th%E1%BB%A7y%20Ho%C3%A0ng%20Doanh%20Ch%C3%ADnh_12.mp3",
+    "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/12-tieu-thuyet-tan-thuy-hoang-doanh-chinh-12.mp3",
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 12",
     "children" : [ ]
   } ],
