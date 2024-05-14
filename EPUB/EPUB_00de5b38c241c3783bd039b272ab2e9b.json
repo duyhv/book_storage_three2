@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 25024,
+    "published" : "2024-05-13",
+    "duration" : 12512,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-1.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/1-muon-ve-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1583,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-2.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/2-muon-ve-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1940,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-3.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/3-muon-ve-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1790,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-4.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/4-muon-ve-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1766,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-5.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/5-muon-ve-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2854,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-6.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/6-muon-ve-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2579,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-1.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/1-muon-ve-1.mp3",
     "title" : "muon-ve-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-2.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/2-muon-ve-2.mp3",
     "title" : "muon-ve-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-3.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/3-muon-ve-3.mp3",
     "title" : "muon-ve-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-4.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/4-muon-ve-4.mp3",
     "title" : "muon-ve-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-5.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/5-muon-ve-5.mp3",
     "title" : "muon-ve-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muon-ve-5/muon-ve-6.mp3",
+    "href" : "https://archive.org/download/00de5b38c241c3783bd039b272ab2e9b/6-muon-ve-6.mp3",
     "title" : "muon-ve-6",
     "children" : [ ]
   } ],

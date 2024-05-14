@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 5394,
+    "published" : "2024-05-13",
+    "duration" : 2697,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/long-da_202111/long-da.mp3",
+    "href" : "https://archive.org/download/06463577c7f785fff8689642c6fc9f0c/1-long-da.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2697,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/long-da_202111/long-da.mp3",
+    "href" : "https://archive.org/download/06463577c7f785fff8689642c6fc9f0c/1-long-da.mp3",
     "title" : "long-da",
     "children" : [ ]
   } ],
