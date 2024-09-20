@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-02",
-    "duration" : 10125,
+    "published" : "2024-09-20",
+    "duration" : 10127,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/837d9a924982c2c8990d20320a20e0c1/chiec-luoi-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "chiec-luoi-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/837d9a924982c2c8990d20320a20e0c1/chiec-luoi-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "chiec-luoi-2",
     "properties" : null,
     "alternate" : null

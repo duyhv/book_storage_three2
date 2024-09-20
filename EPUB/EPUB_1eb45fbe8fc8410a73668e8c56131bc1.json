@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-11",
-    "duration" : 31874,
+    "published" : "2024-09-20",
+    "duration" : 31880,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/2-tieu-thuyet-tan-thuy-hoang-doanh-chinh-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1696,
+    "duration" : 1697,
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 02",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/5-tieu-thuyet-tan-thuy-hoang-doanh-chinh-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3832,
+    "duration" : 3833,
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 05",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/6-tieu-thuyet-tan-thuy-hoang-doanh-chinh-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2879,
+    "duration" : 2880,
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 06",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/8-tieu-thuyet-tan-thuy-hoang-doanh-chinh-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2830,
+    "duration" : 2831,
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 08",
     "properties" : null,
     "alternate" : null
@@ -119,7 +119,7 @@
     "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/11-tieu-thuyet-tan-thuy-hoang-doanh-chinh-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2629,
+    "duration" : 2630,
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 11",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/1eb45fbe8fc8410a73668e8c56131bc1/12-tieu-thuyet-tan-thuy-hoang-doanh-chinh-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1823,
+    "duration" : 1824,
     "title" : "Tiểu thuyết Tần Thủy Hoàng Doanh Chính 12",
     "properties" : null,
     "alternate" : null

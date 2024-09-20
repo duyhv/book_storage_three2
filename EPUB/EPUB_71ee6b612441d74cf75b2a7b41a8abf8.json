@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-05",
-    "duration" : 5877,
+    "published" : "2024-09-20",
+    "duration" : 5879,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/1-hoang-tu-ham-doc-sach-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1901,
+    "duration" : 1902,
     "title" : "HOANG TU HAM DOC SACH 01",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/71ee6b612441d74cf75b2a7b41a8abf8/2-hoang-tu-ham-doc-sach-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2229,
+    "duration" : 2230,
     "title" : "HOANG TU HAM DOC SACH 02",
     "properties" : null,
     "alternate" : null

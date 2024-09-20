@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-07",
-    "duration" : 10480,
+    "published" : "2024-09-20",
+    "duration" : 10505,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/398f5f0131e6fc5d52c4d5837abfb81c/1-bo-cong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3456,
+    "duration" : 3464,
     "title" : "bo-cong-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/398f5f0131e6fc5d52c4d5837abfb81c/2-bo-cong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3518,
+    "duration" : 3527,
     "title" : "bo-cong-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/398f5f0131e6fc5d52c4d5837abfb81c/3-bo-cong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3506,
+    "duration" : 3514,
     "title" : "bo-cong-3",
     "properties" : null,
     "alternate" : null

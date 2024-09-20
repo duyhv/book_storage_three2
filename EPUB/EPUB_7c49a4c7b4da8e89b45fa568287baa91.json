@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-02",
-    "duration" : 48976,
+    "published" : "2024-09-20",
+    "duration" : 48983,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3292,
+    "duration" : 3293,
     "title" : "HieuUngFaceBook P01",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3422,
+    "duration" : 3423,
     "title" : "HieuUngFaceBook P02",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3225,
+    "duration" : 3226,
     "title" : "HieuUngFaceBook P05",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2998,
+    "duration" : 2999,
     "title" : "HieuUngFaceBook P06",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3052,
+    "duration" : 3053,
     "title" : "HieuUngFaceBook P08",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2564,
+    "duration" : 2565,
     "title" : "HieuUngFaceBook P13",
     "properties" : null,
     "alternate" : null
@@ -175,7 +175,7 @@
     "href" : "https://archive.org/download/7c49a4c7b4da8e89b45fa568287baa91/hieuungfacebook-p00-gioithieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3104,
+    "duration" : 3105,
     "title" : "HieuUngFacebook P00 GioiThieu",
     "properties" : null,
     "alternate" : null

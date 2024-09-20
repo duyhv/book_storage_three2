@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 25508,
+    "published" : "2024-09-20",
+    "duration" : 25435,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/1-duc-thanh-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2095,
+    "duration" : 2090,
     "title" : "duc-thanh-01",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/2-duc-thanh-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2374,
+    "duration" : 2367,
     "title" : "duc-thanh-02",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/3-duc-thanh-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2062,
+    "duration" : 2056,
     "title" : "duc-thanh-03",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/4-duc-thanh-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1766,
+    "duration" : 1761,
     "title" : "duc-thanh-04",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/5-duc-thanh-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1936,
+    "duration" : 1931,
     "title" : "duc-thanh-05",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/6-duc-thanh-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2413,
+    "duration" : 2406,
     "title" : "duc-thanh-06",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/7-duc-thanh-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1695,
+    "duration" : 1690,
     "title" : "duc-thanh-07",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/8-duc-thanh-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1912,
+    "duration" : 1906,
     "title" : "duc-thanh-08",
     "properties" : null,
     "alternate" : null
@@ -103,7 +103,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/9-duc-thanh-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1986,
+    "duration" : 1980,
     "title" : "duc-thanh-09",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/10-duc-thanh-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2606,
+    "duration" : 2599,
     "title" : "duc-thanh-10",
     "properties" : null,
     "alternate" : null
@@ -119,7 +119,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/11-duc-thanh-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2126,
+    "duration" : 2120,
     "title" : "duc-thanh-11",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/746df8844ef00cf16d2d92fcff40d3ff/12-duc-thanh-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2537,
+    "duration" : 2529,
     "title" : "duc-thanh-12",
     "properties" : null,
     "alternate" : null

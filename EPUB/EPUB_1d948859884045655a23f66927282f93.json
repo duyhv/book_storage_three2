@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-15",
-    "duration" : 123919,
+    "published" : "2024-09-20",
+    "duration" : 123938,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/1-thuong-nhan-am-phu-tap-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4539,
+    "duration" : 4540,
     "title" : "thuong-nhan-am-phu-tap-1",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/3-thuong-nhan-am-phu-tap-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4648,
+    "duration" : 4649,
     "title" : "thuong-nhan-am-phu-tap-11",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/4-thuong-nhan-am-phu-tap-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4473,
+    "duration" : 4474,
     "title" : "thuong-nhan-am-phu-tap-12",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/5-thuong-nhan-am-phu-tap-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4155,
+    "duration" : 4156,
     "title" : "thuong-nhan-am-phu-tap-14",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/6-thuong-nhan-am-phu-tap-15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4167,
+    "duration" : 4168,
     "title" : "thuong-nhan-am-phu-tap-15",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/7-thuong-nhan-am-phu-tap-16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3802,
+    "duration" : 3803,
     "title" : "thuong-nhan-am-phu-tap-16",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/8-thuong-nhan-am-phu-tap-17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3896,
+    "duration" : 3897,
     "title" : "thuong-nhan-am-phu-tap-17",
     "properties" : null,
     "alternate" : null
@@ -103,7 +103,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/9-thuong-nhan-am-phu-tap-18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4593,
+    "duration" : 4594,
     "title" : "thuong-nhan-am-phu-tap-18",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/10-thuong-nhan-am-phu-tap-19.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4667,
+    "duration" : 4668,
     "title" : "thuong-nhan-am-phu-tap-19",
     "properties" : null,
     "alternate" : null
@@ -119,7 +119,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/11-thuong-nhan-am-phu-tap-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4313,
+    "duration" : 4314,
     "title" : "thuong-nhan-am-phu-tap-2",
     "properties" : null,
     "alternate" : null
@@ -143,7 +143,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/14-thuong-nhan-am-phu-tap-22.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3926,
+    "duration" : 3927,
     "title" : "thuong-nhan-am-phu-tap-22",
     "properties" : null,
     "alternate" : null
@@ -167,7 +167,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/17-thuong-nhan-am-phu-tap-25.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3748,
+    "duration" : 3749,
     "title" : "thuong-nhan-am-phu-tap-25",
     "properties" : null,
     "alternate" : null
@@ -175,7 +175,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/18-thuong-nhan-am-phu-tap-26.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3635,
+    "duration" : 3636,
     "title" : "thuong-nhan-am-phu-tap-26",
     "properties" : null,
     "alternate" : null
@@ -191,7 +191,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/20-thuong-nhan-am-phu-tap-28.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3702,
+    "duration" : 3703,
     "title" : "thuong-nhan-am-phu-tap-28",
     "properties" : null,
     "alternate" : null
@@ -199,7 +199,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/21-thuong-nhan-am-phu-tap-29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3381,
+    "duration" : 3382,
     "title" : "thuong-nhan-am-phu-tap-29",
     "properties" : null,
     "alternate" : null
@@ -215,7 +215,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/23-thuong-nhan-am-phu-tap-30.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3794,
+    "duration" : 3795,
     "title" : "thuong-nhan-am-phu-tap-30",
     "properties" : null,
     "alternate" : null
@@ -239,7 +239,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/26-thuong-nhan-am-phu-tap-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5335,
+    "duration" : 5336,
     "title" : "thuong-nhan-am-phu-tap-6",
     "properties" : null,
     "alternate" : null
@@ -255,7 +255,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/28-thuong-nhan-am-phu-tap-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5212,
+    "duration" : 5213,
     "title" : "thuong-nhan-am-phu-tap-8",
     "properties" : null,
     "alternate" : null
@@ -263,7 +263,7 @@
     "href" : "https://archive.org/download/1d948859884045655a23f66927282f93/29-thuong-nhan-am-phu-tap-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4388,
+    "duration" : 4389,
     "title" : "thuong-nhan-am-phu-tap-9",
     "properties" : null,
     "alternate" : null

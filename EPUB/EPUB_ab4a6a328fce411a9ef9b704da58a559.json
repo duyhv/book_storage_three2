@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-04",
-    "duration" : 28795,
+    "published" : "2024-09-20",
+    "duration" : 28802,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/1-thuc-tinh-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3367,
+    "duration" : 3368,
     "title" : "thức tỉnh 1 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/2-thuc-tinh-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4461,
+    "duration" : 4462,
     "title" : "thức tỉnh 2 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/3-thuc-tinh-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4306,
+    "duration" : 4307,
     "title" : "thức tỉnh 3 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/4-thuc-tinh-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4408,
+    "duration" : 4409,
     "title" : "thức tỉnh 4 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/5-thuc-tinh-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4303,
+    "duration" : 4304,
     "title" : "thức tỉnh 5 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/6-thuc-tinh-6-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4530,
+    "duration" : 4531,
     "title" : "thức tỉnh 6 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/ab4a6a328fce411a9ef9b704da58a559/7-thuc-tinh-7-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3420,
+    "duration" : 3421,
     "title" : "thức tỉnh 7 (192kbit AAC)",
     "properties" : null,
     "alternate" : null

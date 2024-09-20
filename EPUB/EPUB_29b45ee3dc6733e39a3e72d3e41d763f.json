@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-11",
-    "duration" : 5188,
+    "published" : "2024-09-20",
+    "duration" : 5190,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/29b45ee3dc6733e39a3e72d3e41d763f/1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2636,
+    "duration" : 2637,
     "title" : "1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/29b45ee3dc6733e39a3e72d3e41d763f/2-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2552,
+    "duration" : 2553,
     "title" : "2",
     "properties" : null,
     "alternate" : null

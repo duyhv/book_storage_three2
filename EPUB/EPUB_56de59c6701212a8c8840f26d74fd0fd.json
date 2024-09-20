@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 25983,
+    "published" : "2024-09-20",
+    "duration" : 25992,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/1-gap-lai-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1560,
+    "duration" : 1563,
     "title" : "gap-lai-01",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/3-gap-lai-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2219,
+    "duration" : 2220,
     "title" : "gap-lai-03",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/4-gap-lai-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1928,
+    "duration" : 1929,
     "title" : "gap-lai-04",
     "properties" : null,
     "alternate" : null
@@ -119,7 +119,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/11-gap-lai-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1750,
+    "duration" : 1751,
     "title" : "gap-lai-11",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/12-gap-lai-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1773,
+    "duration" : 1774,
     "title" : "gap-lai-12",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/13-gap-lai-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1319,
+    "duration" : 1320,
     "title" : "gap-lai-13",
     "properties" : null,
     "alternate" : null
@@ -143,7 +143,7 @@
     "href" : "https://archive.org/download/56de59c6701212a8c8840f26d74fd0fd/14-gap-lai-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1288,
+    "duration" : 1289,
     "title" : "gap-lai-14",
     "properties" : null,
     "alternate" : null

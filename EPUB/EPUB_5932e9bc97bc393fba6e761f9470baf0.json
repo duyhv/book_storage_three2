@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 13101,
+    "published" : "2024-09-20",
+    "duration" : 13104,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/3-nang-trong-vuon-thach-lam-p03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2542,
+    "duration" : 2543,
     "title" : "nang-trong-vuon-thach-lam p03",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/4-nang-trong-vuon-thach-lam-p04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2942,
+    "duration" : 2943,
     "title" : "nang-trong-vuon-thach-lam p04",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/5932e9bc97bc393fba6e761f9470baf0/5-nang-trong-vuon-thach-lam-p05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2343,
+    "duration" : 2344,
     "title" : "nang-trong-vuon-thach-lam p05",
     "properties" : null,
     "alternate" : null
