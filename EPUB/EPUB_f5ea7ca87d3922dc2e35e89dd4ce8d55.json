@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-21",
-    "duration" : 3468,
+    "published" : "2024-10-22",
+    "duration" : 3452,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-01.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_1-vqtcm3-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9,
@@ -44,15 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-02.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_2-vqtcm3-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 284,
+    "duration" : 283,
     "title" : "VQTCM3-02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-04.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_3-vqtcm3-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2,
@@ -60,196 +60,196 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-05.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_4-vqtcm3-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 185,
+    "duration" : 184,
     "title" : "VQTCM3-05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-06.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_5-vqtcm3-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 316,
+    "duration" : 315,
     "title" : "VQTCM3-06",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-08.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_6-vqtcm3-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 323,
+    "duration" : 322,
     "title" : "VQTCM3-08",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-09.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_7-vqtcm3-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 541,
+    "duration" : 540,
     "title" : "VQTCM3-09",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-10.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_8-vqtcm3-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 237,
+    "duration" : 236,
     "title" : "VQTCM3-10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-11.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_9-vqtcm3-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 17,
+    "duration" : 16,
     "title" : "VQTCM3-11",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-12.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_10-vqtcm3-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 165,
+    "duration" : 164,
     "title" : "VQTCM3-12",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-13.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_11-vqtcm3-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 88,
+    "duration" : 87,
     "title" : "VQTCM3-13",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-14.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_12-vqtcm3-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 76,
+    "duration" : 75,
     "title" : "VQTCM3-14",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-15.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_13-vqtcm3-15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 194,
+    "duration" : 193,
     "title" : "VQTCM3-15",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-16.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_14-vqtcm3-16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 314,
+    "duration" : 313,
     "title" : "VQTCM3-16",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-17.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_15-vqtcm3-17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 180,
+    "duration" : 179,
     "title" : "VQTCM3-17",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-18.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_16-vqtcm3-18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 241,
+    "duration" : 240,
     "title" : "VQTCM3-18",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-19.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_17-vqtcm3-19.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 107,
+    "duration" : 106,
     "title" : "VQTCM3-19",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-20.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_18-vqtcm3-20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 189,
+    "duration" : 188,
     "title" : "VQTCM3-20",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-01.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_1-vqtcm3-01.mp3",
     "title" : "VQTCM3-01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-02.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_2-vqtcm3-02.mp3",
     "title" : "VQTCM3-02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-04.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_3-vqtcm3-04.mp3",
     "title" : "VQTCM3-04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-05.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_4-vqtcm3-05.mp3",
     "title" : "VQTCM3-05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-06.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_5-vqtcm3-06.mp3",
     "title" : "VQTCM3-06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-08.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_6-vqtcm3-08.mp3",
     "title" : "VQTCM3-08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-09.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_7-vqtcm3-09.mp3",
     "title" : "VQTCM3-09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-10.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_8-vqtcm3-10.mp3",
     "title" : "VQTCM3-10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-11.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_9-vqtcm3-11.mp3",
     "title" : "VQTCM3-11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-12.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_10-vqtcm3-12.mp3",
     "title" : "VQTCM3-12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-13.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_11-vqtcm3-13.mp3",
     "title" : "VQTCM3-13",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-14.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_12-vqtcm3-14.mp3",
     "title" : "VQTCM3-14",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-15.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_13-vqtcm3-15.mp3",
     "title" : "VQTCM3-15",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-16.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_14-vqtcm3-16.mp3",
     "title" : "VQTCM3-16",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-17.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_15-vqtcm3-17.mp3",
     "title" : "VQTCM3-17",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-18.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_16-vqtcm3-18.mp3",
     "title" : "VQTCM3-18",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-19.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_17-vqtcm3-19.mp3",
     "title" : "VQTCM3-19",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f5ea7ca87d3922dc2e35e89dd4ce8d55/vqtcm3-20.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/f5ea7ca87d3922dc2e35e89dd4ce8d55/cloudflare_18-vqtcm3-20.mp3",
     "title" : "VQTCM3-20",
     "children" : [ ]
   } ],
